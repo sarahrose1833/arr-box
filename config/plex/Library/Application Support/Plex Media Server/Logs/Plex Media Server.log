@@ -1,0 +1,536 @@
+Jun 06, 2026 02:30:59.371 [130660884839224] INFO - Plex Media Server v1.43.2.10687-563d026ea - Docker Docker Container (LinuxServer.io) x86_64 - build: linux-x86_64 debian - GMT 00:00
+Jun 06, 2026 02:30:59.372 [130660884839224] INFO - Linux version: 7.0.0-3-pve, language: en-US
+Jun 06, 2026 02:30:59.372 [130660884839224] INFO - Processor: 2-core Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz
+Jun 06, 2026 02:30:59.372 [130660884839224] INFO - Compiler is - Clang 11.0.1 (https://plex.tv 9b997da8e5b47bdb4a9425b3a3b290be393b4b1f)
+Jun 06, 2026 02:30:59.372 [130660884839224] INFO - /usr/lib/plexmediaserver/Plex Media Server
+Jun 06, 2026 02:30:59.372 [130660887382672] DEBUG - BPQ: [Idle] -> [Starting]
+Jun 06, 2026 02:30:59.383 [130660887382672] DEBUG - FeatureManager: Using cached data for features list
+Jun 06, 2026 02:30:59.401 [130660887382672] DEBUG - MyPlex: mapping state set to 'Unknown'.
+Jun 06, 2026 02:30:59.401 [130660887382672] DEBUG - Relay: read 0 cached entries from hosts file
+Jun 06, 2026 02:30:59.401 [130660887382672] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.39.4, threadsafe=1
+Jun 06, 2026 02:30:59.932 [130660880157496] DEBUG - [JobRunner] Job running: /usr/lib/plexmediaserver/CrashUploader "--directory=/config/Library/Application Support/Plex Media Server/Crash Reports/1.43.2.10687-563d026ea" --version=1.43.2.10687-563d026ea --platform=Linux --platformVersion=7.0.0-3-pve --serverUuid=d1519348e84670f44e77c0d25db142c829438980 --userId=NOUSERID --sentryUrl=https://o17675.ingest.sentry.io/api/1233455/ --sentryKey=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx --vendor=Docker --model=x86_64 "--device=Docker Container (LinuxServer.io)"
+Jun 06, 2026 02:31:00.009 [130660880157496] DEBUG - [JobRunner] Jobs: Starting child process with pid 210
+Jun 06, 2026 02:31:00.194 [130660887382672] DEBUG - MyPlex: no cached data to load for request for https://plex.tv/api/v2/server/users/features?filterFeatures[]=b83c8dc9-5a01-4b7a-a7c9-5870c8a6e21b&filterFeatures[]=926bc176-58ca-47da-b8e3-080ed14ea6ba&filterFeatures[]=ea791163-c28d-4b7c-af88-bcc9553b206d&filterFeatures[]=6ab6677b-ad9b-444f-9ca1-b8027d05b3e1&filterFeatures[]=56cd352b-0d47-436d-aced-f20db3508de5
+Jun 06, 2026 02:31:00.234 [130660882639672] DEBUG - Jobs: '/usr/lib/plexmediaserver/CrashUploader' exit code for process 210 is 0 (success)
+Jun 06, 2026 02:31:00.358 [130660887382672] DEBUG - HttpServer: Listening on IPv6 as well as IPv4.
+Jun 06, 2026 02:31:00.358 [130660887382672] DEBUG - HttpServer: Listening on port 32400.
+Jun 06, 2026 02:31:00.358 [130660887382672] DEBUG - HttpServer: Listening on port 32401.
+Jun 06, 2026 02:31:00.358 [130660887382672] DEBUG - Running server...
+Jun 06, 2026 02:31:00.359 [130660887382672] INFO - Running migrations. (EPG 0)
+Jun 06, 2026 02:31:00.359 [130660887382672] DEBUG - Captured session 0.
+Jun 06, 2026 02:31:00.359 [130660887382672] DEBUG - Captured session 1.
+Jun 06, 2026 02:31:00.359 [130660887382672] DEBUG - Captured session 2.
+Jun 06, 2026 02:31:00.359 [130660887382672] DEBUG - Captured session 3.
+Jun 06, 2026 02:31:00.359 [130660887382672] DEBUG - Captured session 4.
+Jun 06, 2026 02:31:00.359 [130660887382672] DEBUG - Captured session 5.
+Jun 06, 2026 02:31:00.359 [130660887382672] DEBUG - Captured session 6.
+Jun 06, 2026 02:31:00.359 [130660887382672] DEBUG - Captured session 7.
+Jun 06, 2026 02:31:00.359 [130660887382672] DEBUG - Captured session 8.
+Jun 06, 2026 02:31:00.359 [130660887382672] DEBUG - Captured session 9.
+Jun 06, 2026 02:31:00.359 [130660887382672] DEBUG - Captured session 10.
+Jun 06, 2026 02:31:00.359 [130660887382672] DEBUG - Captured session 11.
+Jun 06, 2026 02:31:00.359 [130660887382672] DEBUG - Captured session 12.
+Jun 06, 2026 02:31:00.359 [130660887382672] DEBUG - Captured session 13.
+Jun 06, 2026 02:31:00.359 [130660887382672] DEBUG - Captured session 14.
+Jun 06, 2026 02:31:00.359 [130660887382672] DEBUG - Captured session 15.
+Jun 06, 2026 02:31:00.359 [130660887382672] DEBUG - Captured session 16.
+Jun 06, 2026 02:31:00.359 [130660887382672] DEBUG - Captured session 17.
+Jun 06, 2026 02:31:00.359 [130660887382672] DEBUG - Captured session 18.
+Jun 06, 2026 02:31:00.359 [130660887382672] DEBUG - Captured session 19.
+Jun 06, 2026 02:31:00.370 [130660867107640] DEBUG - HttpServer: Set up a thread pool with 2 threads.
+Jun 06, 2026 02:31:00.373 [130660887382672] DEBUG - ChangestampAllocator: initialized to 0
+Jun 06, 2026 02:31:00.553 [130660887382672] DEBUG - Opening 2 database sessions to library (com.plexapp.plugins.library.blobs), SQLite 3.39.4, threadsafe=1
+Jun 06, 2026 02:31:00.576 [130660887382672] INFO - Running migrations. (EPG 0)
+Jun 06, 2026 02:31:00.576 [130660887382672] DEBUG - Captured session 0.
+Jun 06, 2026 02:31:00.578 [130660887382672] DEBUG - Captured session 1.
+Jun 06, 2026 02:31:01.329 [130660870327096] DEBUG - Request: didn't get any data from [::1]:44240: End of file
+Jun 06, 2026 02:31:01.524 [130660880157496] DEBUG - Grabber: Cleaning up orphaned grabs.
+Jun 06, 2026 02:31:01.524 [130660880157496] DEBUG - Grabber: Cleaned up 0 decrepit directories in 0.0 sec.
+Jun 06, 2026 02:31:01.525 [130660887382672] DEBUG - Media Provider: Registering provider com.plexapp.plugins.library
+Jun 06, 2026 02:31:01.525 [130660887382672] DEBUG - Auth: Refreshing tokens inside the token-based authentication filter.
+Jun 06, 2026 02:31:01.525 [130660887382672] DEBUG - Opening 1 database sessions to library (), SQLite 3.39.4, threadsafe=1
+Jun 06, 2026 02:31:01.528 [130660862815032] DEBUG - File "/usr/lib/plexmediaserver/Resources/Plug-ins-563d026ea" changed: -1 => 2026-05-19 19:22:59 (1779218579).
+Jun 06, 2026 02:31:01.528 [130660862815032] DEBUG - File "/config/Library/Application Support/Plex Media Server/Plug-ins" changed: -1 => 2026-06-04 21:29:53 (1780608593).
+Jun 06, 2026 02:31:01.528 [130660862815032] DEBUG - Scanning for plug-ins in "/usr/lib/plexmediaserver/Resources/Plug-ins-563d026ea"
+Jun 06, 2026 02:31:01.531 [130660880157496] DEBUG - Auth: Refreshing tokens inside the token-based authentication filter.
+Jun 06, 2026 02:31:04.526 [130660880157496] DEBUG - [MediaProviderManager] Refreshing media providers
+Jun 06, 2026 02:31:05.137 [130660880157496] DEBUG - [MediaProviderManager] we had 0 cloud providers online, we now have 1
+Jun 06, 2026 02:31:05.137 [130660880157496] DEBUG - [MediaProviderManager] cloud provider (Metadata) is online and available
+Jun 06, 2026 02:31:05.137 [130660880157496] DEBUG - [MediaProviderManager/MetadataAgentManager] Found media provider for agent provider 'tv.plex.agents.movie' with source URI 'provider://tv.plex.provider.metadata'
+Jun 06, 2026 02:31:05.138 [130660880157496] DEBUG - [MediaProviderManager/MetadataAgentManager] Found media provider for agent provider 'tv.plex.agents.series' with source URI 'provider://tv.plex.provider.metadata'
+Jun 06, 2026 02:31:05.138 [130660880157496] DEBUG - [MediaProviderManager/MetadataAgentManager] Found media provider for agent provider 'tv.plex.agents.music' with source URI 'provider://tv.plex.provider.metadata'
+Jun 06, 2026 02:31:05.138 [130660880157496] DEBUG - [MediaProviderManager/MetadataAgentManager] Found media provider for agent provider 'org.musicbrainz.agents.music' with source URI 'provider://tv.plex.provider.metadata'
+Jun 06, 2026 02:31:05.138 [130660880157496] DEBUG - [MediaProviderManager] Media provider refresh complete
+Jun 06, 2026 02:31:07.555 [130660862815032] DEBUG - Scanning for plug-ins in "/config/Library/Application Support/Plex Media Server/Plug-ins"
+Jun 06, 2026 02:31:07.555 [130660862815032] DEBUG - PluginRepository::setStartState: 1, startingSystem
+Jun 06, 2026 02:31:07.555 [130660862815032] DEBUG - Starting plug-in /usr/lib/plexmediaserver/Resources/Plug-ins-563d026ea/System.bundle.
+Jun 06, 2026 02:31:07.556 [130660862815032] DEBUG - [com.plexapp.system] Setting plug-in to always running (daemon mode).
+Jun 06, 2026 02:31:07.557 [130660862815032] DEBUG - Starting file watcher for com.plexapp.system
+Jun 06, 2026 02:31:07.557 [130660862815032] DEBUG - Plugin: setting environment variable: 'PYTHONHOME=/usr/lib/plexmediaserver/Resources/Python'
+Jun 06, 2026 02:31:07.557 [130660862815032] DEBUG - Plugin: setting environment variable: 'PYTHONPATH=/usr/lib/plexmediaserver/Resources/Python/python27.zip:/usr/lib/plexmediaserver/Resources/Python/lib/python2.7/site-packages'
+Jun 06, 2026 02:31:07.610 [130660862815032] DEBUG - Spawned plug-in com.plexapp.system with PID 240
+Jun 06, 2026 02:31:07.610 [130660862815032] DEBUG - [com.plexapp.system] Sending command: GET /:/prefixes
+Jun 06, 2026 02:31:12.189 [130660880157496] DEBUG - Grabber: Plex Tuner Service not running; retrying in 10 seconds.
+Jun 06, 2026 02:31:19.874 [130660850125624] DEBUG - Request: [127.0.0.1:38056 (Loopback)] GET / (4 live) #3 GZIP Token ()
+Jun 06, 2026 02:31:19.874 [130660848016184] DEBUG - Request: [127.0.0.1:38066 (Loopback)] GET /:/plugins/com.plexapp.system/messaging/function/X0J1bmRsZVNlcnZpY2U6QWxsU2VydmljZXM_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMApyMAo_ (4 live) #4 GZIP Token ()
+Jun 06, 2026 02:31:19.877 [130660870327096] DEBUG - Completed: [127.0.0.1:38056] 503 GET / (4 live) #3 GZIP 3ms 436 bytes
+Jun 06, 2026 02:31:19.877 [130660870327096] DEBUG - Completed: [127.0.0.1:38066] 503 GET /:/plugins/com.plexapp.system/messaging/function/X0J1bmRsZVNlcnZpY2U6QWxsU2VydmljZXM_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMApyMAo_ (4 live) #4 GZIP 3ms 436 bytes
+Jun 06, 2026 02:31:21.972 [130660862815032] DEBUG - Reading 486 bytes in the body, code is 200
+Jun 06, 2026 02:31:21.972 [130660862815032] DEBUG - [com.plexapp.system] Plug-in running on port 39121.
+Jun 06, 2026 02:31:21.972 [130660862815032] DEBUG -  * Plug-in handles prefix: /system
+Jun 06, 2026 02:31:21.972 [130660862815032] DEBUG -  * Plug-in handles prefix: /player
+Jun 06, 2026 02:31:21.972 [130660862815032] DEBUG - Read configuration for [com.plexapp.system], had 2 prefixes
+Jun 06, 2026 02:31:21.973 [130660862815032] DEBUG - Done with 1 synchronous plug-in starts, starting the rest in parallel.
+Jun 06, 2026 02:31:21.973 [130660862815032] DEBUG - PluginRepository::setStartState: 2, startingPlugins
+Jun 06, 2026 02:31:21.973 [130660862815032] DEBUG - Updating the list of agents known by the system.
+Jun 06, 2026 02:31:21.973 [130660862815032] DEBUG - [com.plexapp.system] Sending command over HTTP (GET): /system/agents
+Jun 06, 2026 02:31:21.973 [130660862815032] DEBUG - [HCl#3] HTTP requesting GET http://127.0.0.1:39121/system/agents
+Jun 06, 2026 02:31:21.974 [130660887382672] DEBUG - Image transcode cache directory: "/config/Library/Application Support/Plex Media Server/Cache/PhotoTranscoder"
+Jun 06, 2026 02:31:22.190 [130660880157496] DEBUG - Grabber: Plex Tuner Service not running; retrying in 10 seconds.
+Jun 06, 2026 02:31:22.888 [130660887382672] DEBUG - Transcoder: Cleaning old transcode directories.
+Jun 06, 2026 02:31:22.888 [130660887382672] DEBUG - MyPlex: stop public ip check and mapping - current mapped state: 'Unknown'.
+Jun 06, 2026 02:31:22.900 [130660850125624] DEBUG - Request: [127.0.0.1:38068 (Loopback)] GET /servers (2 live) #5 GZIP Token ()
+Jun 06, 2026 02:31:22.901 [130660870327096] DEBUG - Completed: [127.0.0.1:38068] 503 GET /servers (2 live) #5 GZIP 0ms 436 bytes
+Jun 06, 2026 02:31:23.926 [130660887382672] DEBUG - NetworkInterface: Starting watch thread.
+Jun 06, 2026 02:31:23.928 [130660887382672] DEBUG - Network change.
+Jun 06, 2026 02:31:23.928 [130660845906744] DEBUG - NetworkInterface: Watching for changes on the interfaces.
+Jun 06, 2026 02:31:23.929 [130660887382672] DEBUG - NetworkInterface: Notified of network changed (force=0)
+Jun 06, 2026 02:31:23.932 [130660887382672] DEBUG - Detected primary interface: 192.168.1.78
+Jun 06, 2026 02:31:23.933 [130660887382672] DEBUG - Network interfaces:
+Jun 06, 2026 02:31:23.935 [130660887382672] DEBUG -  * 1 lo (127.0.0.1) (00-00-00-00-00-00) (loopback: 1)
+Jun 06, 2026 02:31:23.935 [130660887382672] DEBUG -  * 2 eth0 (192.168.1.78) (BC-24-11-B5-1E-FC) (loopback: 0)
+Jun 06, 2026 02:31:23.935 [130660887382672] DEBUG -  * 4 br-82dd33596687 (172.18.0.1) (0A-84-64-5E-B0-7C) (loopback: 0)
+Jun 06, 2026 02:31:23.935 [130660887382672] DEBUG -  * 5 docker0 (172.17.0.1) (2A-76-77-5F-09-61) (loopback: 0)
+Jun 06, 2026 02:31:23.935 [130660887382672] DEBUG -  * 1 lo (::1) (00-00-00-00-00-00) (loopback: 1)
+Jun 06, 2026 02:31:23.935 [130660887382672] DEBUG -  * 2 eth0 (2600:6c48:437f:5191:be24:11ff:feb5:1efc) (BC-24-11-B5-1E-FC) (loopback: 0)
+Jun 06, 2026 02:31:23.935 [130660887382672] DEBUG -  * 2 eth0 (fd00:2e67:be73:9f07:be24:11ff:feb5:1efc) (BC-24-11-B5-1E-FC) (loopback: 0)
+Jun 06, 2026 02:31:23.935 [130660887382672] DEBUG - Creating NetworkServices singleton.
+Jun 06, 2026 02:31:23.935 [130660887382672] DEBUG - NetworkServices: Initializing...
+Jun 06, 2026 02:31:23.936 [130660887382672] DEBUG - NetworkService: Creating new service.
+Jun 06, 2026 02:31:23.936 [130660887382672] DEBUG - NetworkService: Got notification of changed network (first change: 1)
+Jun 06, 2026 02:31:23.936 [130660887382672] DEBUG - NetworkService: Quick dispatch of network change.
+Jun 06, 2026 02:31:23.936 [130660887382672] DEBUG - NetworkService: Creating new service.
+Jun 06, 2026 02:31:23.936 [130660843797304] DEBUG - Network change for advertiser.
+Jun 06, 2026 02:31:23.936 [130660843797304] DEBUG - NetworkService: Setting up multicast listener on 0.0.0.0:32414
+Jun 06, 2026 02:31:23.937 [130660887382672] DEBUG - NetworkService: Got notification of changed network (first change: 1)
+Jun 06, 2026 02:31:23.937 [130660887382672] DEBUG - NetworkService: Quick dispatch of network change.
+Jun 06, 2026 02:31:23.937 [130660887382672] DEBUG - NetworkService: Creating new service.
+Jun 06, 2026 02:31:23.937 [130660887382672] DEBUG - NetworkService: Got notification of changed network (first change: 1)
+Jun 06, 2026 02:31:23.937 [130660887382672] DEBUG - NetworkService: Quick dispatch of network change.
+Jun 06, 2026 02:31:23.937 [130660843797304] DEBUG - Network change for advertiser.
+Jun 06, 2026 02:31:23.937 [130660843797304] DEBUG - NetworkService: Setting up multicast listener on 0.0.0.0:32410
+Jun 06, 2026 02:31:23.937 [130660887382672] DEBUG - NetworkService: Creating new service.
+Jun 06, 2026 02:31:23.937 [130660887382672] DEBUG - NetworkService: Got notification of changed network (first change: 1)
+Jun 06, 2026 02:31:23.938 [130660887382672] DEBUG - NetworkService: Quick dispatch of network change.
+Jun 06, 2026 02:31:23.938 [130660887382672] DEBUG - NetworkService: Creating new service.
+Jun 06, 2026 02:31:23.938 [130660843797304] DEBUG - Network change for advertiser.
+Jun 06, 2026 02:31:23.938 [130660843797304] DEBUG - NetworkService: Setting up multicast listener on 0.0.0.0:32412
+Jun 06, 2026 02:31:23.938 [130660887382672] DEBUG - NetworkService: Got notification of changed network (first change: 1)
+Jun 06, 2026 02:31:23.938 [130660887382672] DEBUG - NetworkService: Quick dispatch of network change.
+Jun 06, 2026 02:31:23.938 [130660887382672] DEBUG - NetworkService: Creating new service.
+Jun 06, 2026 02:31:23.938 [130660887382672] DEBUG - NetworkService: Got notification of changed network (first change: 1)
+Jun 06, 2026 02:31:23.938 [130660887382672] DEBUG - NetworkService: Quick dispatch of network change.
+Jun 06, 2026 02:31:23.938 [130660843797304] DEBUG - NetworkService: Network change for browser (polled=0), closing 0 browse sockets.
+Jun 06, 2026 02:31:23.939 [130660843797304] DEBUG - NetworkService: Setting up multicast listener on 0.0.0.0:32413
+Jun 06, 2026 02:31:23.939 [130660843797304] DEBUG - NetworkService: Browsing on interface 127.0.0.1 on broadcast address 127.255.255.255 (index: 0)
+Jun 06, 2026 02:31:23.939 [130660843797304] DEBUG - NetworkService: Browsing on interface 192.168.1.78 on broadcast address 192.168.1.255 (index: 1)
+Jun 06, 2026 02:31:23.939 [130660843797304] DEBUG - NetworkService: Browsing on interface 172.18.0.1 on broadcast address 172.18.255.255 (index: 2)
+Jun 06, 2026 02:31:23.939 [130660843797304] DEBUG - NetworkService: Browsing on interface 172.17.0.1 on broadcast address 172.17.255.255 (index: 3)
+Jun 06, 2026 02:31:23.939 [130660843797304] DEBUG - NetworkService: Network change for browser (polled=1), closing 0 browse sockets.
+Jun 06, 2026 02:31:23.939 [130660843797304] DEBUG - NetworkService: Browsing on interface 127.0.0.1 on broadcast address 127.255.255.255 (index: 0)
+Jun 06, 2026 02:31:23.940 [130660843797304] DEBUG - NetworkService: Browsing on interface 192.168.1.78 on broadcast address 192.168.1.255 (index: 1)
+Jun 06, 2026 02:31:23.940 [130660843797304] DEBUG - NetworkService: Browsing on interface 172.18.0.1 on broadcast address 172.18.255.255 (index: 2)
+Jun 06, 2026 02:31:23.940 [130660843797304] DEBUG - NetworkService: Browsing on interface 172.17.0.1 on broadcast address 172.17.255.255 (index: 3)
+Jun 06, 2026 02:31:23.940 [130660843797304] DEBUG - NetworkService: Network change for browser (polled=0), closing 0 browse sockets.
+Jun 06, 2026 02:31:23.940 [130660843797304] DEBUG - NetworkService: Setting up multicast listener on 0.0.0.0:1901
+Jun 06, 2026 02:31:23.940 [130660843797304] DEBUG - NetworkService: Browsing on interface 192.168.1.78 on broadcast address 239.255.255.250 (index: 0)
+Jun 06, 2026 02:31:23.940 [130660843797304] DEBUG - NetworkService: Browsing on interface 172.18.0.1 on broadcast address 239.255.255.250 (index: 1)
+Jun 06, 2026 02:31:23.940 [130660843797304] DEBUG - NetworkService: Browsing on interface 172.17.0.1 on broadcast address 239.255.255.250 (index: 2)
+Jun 06, 2026 02:31:23.941 [130660841687864] DEBUG - [HCl#4] HTTP requesting GET https://plex.tv/api/v2/release_channels?X-Plex-Token=
+Jun 06, 2026 02:31:23.941 [130660837468984] DEBUG - [ChildProcessMonitor] Plex Tuner Service starting.
+Jun 06, 2026 02:31:23.947 [130660837468984] DEBUG - [ChildProcessMonitor/JobRunner] Job running: "/usr/lib/plexmediaserver/Plex Tuner Service" /usr/lib/plexmediaserver/Resources/Tuner/Private /usr/lib/plexmediaserver/Resources/Tuner/Shared 1.43.2.10687-563d026ea 32600
+Jun 06, 2026 02:31:23.941 [130660839578424] DEBUG - [DatabaseFixups] Running fix-ups.
+Jun 06, 2026 02:31:23.947 [130660839578424] DEBUG - [DatabaseFixups/31DatabaseFixupsCleanupRetroGames] Executing fixup
+Jun 06, 2026 02:31:23.947 [130660839578424] DEBUG - [DatabaseFixups/31DatabaseFixupsCleanupRetroGames] Fixup completed
+Jun 06, 2026 02:31:23.947 [130660839578424] DEBUG - [DatabaseFixups/39DatabaseFixupsEnsureLibrarySectionUuids] Executing fixup
+Jun 06, 2026 02:31:23.947 [130660839578424] DEBUG - [DatabaseFixups/39DatabaseFixupsEnsureLibrarySectionUuids] Fixup completed
+Jun 06, 2026 02:31:23.947 [130660839578424] DEBUG - [DatabaseFixups/38DatabaseFixupsEnsureMetadataItemHashes] Executing fixup
+Jun 06, 2026 02:31:23.947 [130660839578424] DEBUG - [DatabaseFixups/38DatabaseFixupsEnsureMetadataItemHashes] Fixup completed
+Jun 06, 2026 02:31:23.947 [130660839578424] DEBUG - [DatabaseFixups/39DatabaseFixupsSetDefaultAccountLanguage] Executing fixup
+Jun 06, 2026 02:31:23.948 [130660839578424] DEBUG - [DatabaseFixups/39DatabaseFixupsSetDefaultAccountLanguage] Fixup completed
+Jun 06, 2026 02:31:23.948 [130660839578424] DEBUG - [DatabaseFixups/52DatabaseFixupsCreateDefaultMediaProcessingTargetTags] Executing fixup
+Jun 06, 2026 02:31:23.945 [130660826921784] DEBUG - DVR: Starting up.
+Jun 06, 2026 02:31:23.944 [130660829031224] DEBUG - MyPlex: Sending unclaimed device connections
+Jun 06, 2026 02:31:23.942 [130660887382672] DEBUG - Waiting for server condition to be signaled.
+Jun 06, 2026 02:31:23.942 [130660835359544] DEBUG - [HCl#5] HTTP requesting GET https://plex.tv/api/v2/user/privacy?X-Plex-Token=
+Jun 06, 2026 02:31:23.942 [130660833250104] DEBUG - [HCl#6] HTTP requesting GET https://plex.tv/api/v2/features?X-Plex-Token=
+Jun 06, 2026 02:31:23.951 [130660829031224] DEBUG - [HCl#7] HTTP requesting POST https://plex.tv/devices/d1519348e84670f44e77c0d25db142c829438980/unclaimed?Connection[][uri]=http://192.168.1.78:32400&Connection[][uri]=http://172.18.0.1:32400&Connection[][uri]=http://172.17.0.1:32400
+Jun 06, 2026 02:31:23.957 [130660826921784] DEBUG - Activity: registered new activity 7079f9a9-8b52-407b-a413-8016589927ac - "Processing subscriptions"
+Jun 06, 2026 02:31:23.958 [130660839578424] DEBUG - [DatabaseFixups/52DatabaseFixupsCreateDefaultMediaProcessingTargetTags] Fixup completed
+Jun 06, 2026 02:31:23.958 [130660839578424] DEBUG - [DatabaseFixups/43DatabaseFixupsUpdateAutomaticLibraryFolders] Executing fixup
+Jun 06, 2026 02:31:23.958 [130660839578424] DEBUG - [DatabaseFixups/43DatabaseFixupsUpdateAutomaticLibraryFolders] Fixup completed
+Jun 06, 2026 02:31:23.958 [130660839578424] DEBUG - [DatabaseFixups/29DatabaseFixupsSyncCollections] Executing fixup
+Jun 06, 2026 02:31:23.958 [130660839578424] DEBUG - [DatabaseFixups/29DatabaseFixupsSyncCollections] Fixup completed
+Jun 06, 2026 02:31:23.958 [130660839578424] DEBUG - [DatabaseFixups/31DatabaseFixupsCleanupActivities] Executing fixup
+Jun 06, 2026 02:31:23.958 [130660839578424] DEBUG - [DatabaseFixups/31DatabaseFixupsCleanupActivities] Fixup completed
+Jun 06, 2026 02:31:23.958 [130660839578424] DEBUG - [DatabaseFixups/35DatabaseFixupsConsolidatePeopleTags] Executing fixup
+Jun 06, 2026 02:31:23.959 [130660839578424] DEBUG - [DatabaseFixups/35DatabaseFixupsConsolidatePeopleTags] Fixup completed
+Jun 06, 2026 02:31:23.960 [130660839578424] DEBUG - [DatabaseFixups/54DatabaseFixupsGarbageCollectTransientMetadataRelations] Executing fixup
+Jun 06, 2026 02:31:23.960 [130660839578424] DEBUG - [DatabaseFixups/54DatabaseFixupsGarbageCollectTransientMetadataRelations] Fixup completed
+Jun 06, 2026 02:31:23.960 [130660839578424] DEBUG - [DatabaseFixups/48DatabaseFixupsResetCorruptedMetadataItemClusters] Executing fixup
+Jun 06, 2026 02:31:23.961 [130660839578424] DEBUG - [DatabaseFixups/48DatabaseFixupsResetCorruptedMetadataItemClusters] Fixup completed
+Jun 06, 2026 02:31:23.961 [130660839578424] DEBUG - [DatabaseFixups] Running database fix-ups completed in 0.0 seconds.
+Jun 06, 2026 02:31:23.976 [130660837468984] DEBUG - [ChildProcessMonitor/JobRunner] Jobs: Starting child process with pid 283
+Jun 06, 2026 02:31:24.430 [130660860705592] DEBUG - [HttpClient/HCl#5] HTTP/1.1 (0.5s) 200 response from GET https://plex.tv/api/v2/user/privacy?X-Plex-Token=
+Jun 06, 2026 02:31:24.439 [130660860705592] DEBUG - [HttpClient/HCl#4] HTTP/1.1 (0.5s) 200 response from GET https://plex.tv/api/v2/release_channels?X-Plex-Token=
+Jun 06, 2026 02:31:24.447 [130660860705592] DEBUG - [HttpClient/HCl#6] HTTP/1.1 (0.5s) 200 response from GET https://plex.tv/api/v2/features?X-Plex-Token=
+Jun 06, 2026 02:31:24.458 [130660833250104] DEBUG - [HCl#8] HTTP requesting GET https://plex.tv/api/v2/server/users/features?filterFeatures[]=b83c8dc9-5a01-4b7a-a7c9-5870c8a6e21b&filterFeatures[]=926bc176-58ca-47da-b8e3-080ed14ea6ba&filterFeatures[]=ea791163-c28d-4b7c-af88-bcc9553b206d&filterFeatures[]=6ab6677b-ad9b-444f-9ca1-b8027d05b3e1&filterFeatures[]=56cd352b-0d47-436d-aced-f20db3508de5
+Jun 06, 2026 02:31:24.466 [130660860705592] DEBUG - [HttpClient/HCl#3] HTTP/1.1 (2.5s) 200 response from GET http://127.0.0.1:39121/system/agents
+Jun 06, 2026 02:31:24.466 [130660862815032] DEBUG - [com.plexapp.system] HTTP reply status 200, with 8986 bytes of content.
+Jun 06, 2026 02:31:24.481 [130660860705592] DEBUG - [HttpClient/HCl#7] HTTP/1.1 (0.5s) 200 response from POST https://plex.tv/devices/d1519348e84670f44e77c0d25db142c829438980/unclaimed?Connection[][uri]=http://192.168.1.78:32400&Connection[][uri]=http://172.18.0.1:32400&Connection[][uri]=http://172.17.0.1:32400
+Jun 06, 2026 02:31:24.495 [130660862815032] DEBUG - The system knows about 12 agents.
+Jun 06, 2026 02:31:24.496 [130660820376376] DEBUG - Starting plug-in /usr/lib/plexmediaserver/Resources/Plug-ins-563d026ea/PlexThemeMusic.bundle.
+Jun 06, 2026 02:31:24.496 [130660818266936] DEBUG - Starting plug-in /usr/lib/plexmediaserver/Resources/Plug-ins-563d026ea/Framework.bundle.
+Jun 06, 2026 02:31:24.501 [130660820376376] DEBUG - Perfect cache hit, we don't need to start [com.plexapp.agents.plexthememusic] yet.
+Jun 06, 2026 02:31:24.509 [130660862815032] DEBUG - Waiting for 14 plug-ins to finish starting.
+Jun 06, 2026 02:31:24.509 [130660810251064] DEBUG - Starting plug-in /usr/lib/plexmediaserver/Resources/Plug-ins-563d026ea/Fanart-TV.bundle.
+Jun 06, 2026 02:31:24.510 [130660818266936] DEBUG - Starting plug-in /usr/lib/plexmediaserver/Resources/Plug-ins-563d026ea/LastFM.bundle.
+Jun 06, 2026 02:31:24.510 [130660820376376] DEBUG - Starting plug-in /usr/lib/plexmediaserver/Resources/Plug-ins-563d026ea/PlexMovie.bundle.
+Jun 06, 2026 02:31:24.525 [130660810251064] DEBUG - Perfect cache hit, we don't need to start [com.plexapp.agents.fanarttv] yet.
+Jun 06, 2026 02:31:24.526 [130660810251064] DEBUG - Starting plug-in /usr/lib/plexmediaserver/Resources/Plug-ins-563d026ea/WebClient.bundle.
+Jun 06, 2026 02:31:24.530 [130660818266936] DEBUG - Perfect cache hit, we don't need to start [com.plexapp.agents.lastfm] yet.
+Jun 06, 2026 02:31:24.530 [130660818266936] DEBUG - Starting plug-in /usr/lib/plexmediaserver/Resources/Plug-ins-563d026ea/HTbackdrops.bundle.
+Jun 06, 2026 02:31:24.534 [130660820376376] DEBUG - Perfect cache hit, we don't need to start [com.plexapp.agents.imdb] yet.
+Jun 06, 2026 02:31:24.534 [130660820376376] DEBUG - Starting plug-in /usr/lib/plexmediaserver/Resources/Plug-ins-563d026ea/LyricFind.bundle.
+Jun 06, 2026 02:31:24.537 [130660810251064] DEBUG - Starting plug-in /usr/lib/plexmediaserver/Resources/Plug-ins-563d026ea/Media-Flags.bundle.
+Jun 06, 2026 02:31:24.538 [130660818266936] DEBUG - Perfect cache hit, we don't need to start [com.plexapp.agents.htbackdrops] yet.
+Jun 06, 2026 02:31:24.539 [130660818266936] DEBUG - Starting plug-in /usr/lib/plexmediaserver/Resources/Plug-ins-563d026ea/Musicbrainz.bundle.
+Jun 06, 2026 02:31:24.542 [130660860705592] DEBUG - [HttpClient/HCl#8] HTTP/1.1 (0.1s) 401 response from GET https://plex.tv/api/v2/server/users/features?filterFeatures[]=b83c8dc9-5a01-4b7a-a7c9-5870c8a6e21b&filterFeatures[]=926bc176-58ca-47da-b8e3-080ed14ea6ba&filterFeatures[]=ea791163-c28d-4b7c-af88-bcc9553b206d&filterFeatures[]=6ab6677b-ad9b-444f-9ca1-b8027d05b3e1&filterFeatures[]=56cd352b-0d47-436d-aced-f20db3508de5 (reused)
+Jun 06, 2026 02:31:24.542 [130660812360504] ERROR - MyPlex: Error 401 requesting JSON from: https://plex.tv/api/v2/server/users/features?filterFeatures[]=b83c8dc9-5a01-4b7a-a7c9-5870c8a6e21b&filterFeatures[]=926bc176-58ca-47da-b8e3-080ed14ea6ba&filterFeatures[]=ea791163-c28d-4b7c-af88-bcc9553b206d&filterFeatures[]=6ab6677b-ad9b-444f-9ca1-b8027d05b3e1&filterFeatures[]=56cd352b-0d47-436d-aced-f20db3508de5
+Jun 06, 2026 02:31:24.545 [130660820376376] DEBUG - Perfect cache hit, we don't need to start [com.plexapp.agents.lyricfind] yet.
+Jun 06, 2026 02:31:24.545 [130660820376376] DEBUG - Starting plug-in /usr/lib/plexmediaserver/Resources/Plug-ins-563d026ea/TheTVDB.bundle.
+Jun 06, 2026 02:31:24.545 [130660810251064] DEBUG - Starting plug-in /usr/lib/plexmediaserver/Resources/Plug-ins-563d026ea/TheMovieDB.bundle.
+Jun 06, 2026 02:31:24.546 [130660818266936] DEBUG - Perfect cache hit, we don't need to start [org.musicbrainz.agents.music] yet.
+Jun 06, 2026 02:31:24.546 [130660818266936] DEBUG - Starting plug-in /usr/lib/plexmediaserver/Resources/Plug-ins-563d026ea/LocalMedia.bundle.
+Jun 06, 2026 02:31:24.546 [130660833250104] WARN - FeatureManager: Couldn't get features. Trying again soon.
+Jun 06, 2026 02:31:24.549 [130660810251064] DEBUG - Perfect cache hit, we don't need to start [com.plexapp.agents.themoviedb] yet.
+Jun 06, 2026 02:31:24.549 [130660810251064] DEBUG - Starting plug-in /usr/lib/plexmediaserver/Resources/Plug-ins-563d026ea/MoviePosterDB.bundle.
+Jun 06, 2026 02:31:24.549 [130660818266936] DEBUG - Perfect cache hit, we don't need to start [com.plexapp.agents.localmedia] yet.
+Jun 06, 2026 02:31:24.549 [130660818266936] DEBUG - Starting plug-in /usr/lib/plexmediaserver/Resources/Plug-ins-563d026ea/Scanners.bundle.
+Jun 06, 2026 02:31:24.550 [130660818266936] DEBUG - Starting plug-in /usr/lib/plexmediaserver/Resources/Plug-ins-563d026ea/PersonalMedia.bundle.
+Jun 06, 2026 02:31:24.551 [130660820376376] DEBUG - Perfect cache hit, we don't need to start [com.plexapp.agents.thetvdb] yet.
+Jun 06, 2026 02:31:24.554 [130660810251064] DEBUG - Perfect cache hit, we don't need to start [com.plexapp.agents.movieposterdb] yet.
+Jun 06, 2026 02:31:24.554 [130660818266936] DEBUG - Perfect cache hit, we don't need to start [com.plexapp.agents.none] yet.
+Jun 06, 2026 02:31:24.555 [130660822702904] DEBUG - Downloading document http://127.0.0.1:32400/:/plugins/com.plexapp.agents.imdb/prefs
+Jun 06, 2026 02:31:24.555 [130660862815032] DEBUG - Starting scheduled updates, every 3600 seconds
+Jun 06, 2026 02:31:24.555 [130660862815032] INFO - LibraryUpdateManager path watching is disabled
+Jun 06, 2026 02:31:24.555 [130660862815032] DEBUG - Done waiting for all plug-ins to start.
+Jun 06, 2026 02:31:24.555 [130660862815032] DEBUG - PluginRepository::setStartState: 3, complete
+Jun 06, 2026 02:31:24.570 [130660822702904] DEBUG - Translator: Found locale no
+Jun 06, 2026 02:31:24.570 [130660822702904] DEBUG - Translator: Found locale hu_HU
+Jun 06, 2026 02:31:24.571 [130660822702904] DEBUG - Translator: Found locale cs_CZ
+Jun 06, 2026 02:31:24.571 [130660822702904] DEBUG - Translator: Found locale pt_BR
+Jun 06, 2026 02:31:24.571 [130660822702904] DEBUG - Translator: Found locale de
+Jun 06, 2026 02:31:24.571 [130660822702904] DEBUG - Translator: Found locale ko
+Jun 06, 2026 02:31:24.571 [130660822702904] DEBUG - Translator: Found locale it
+Jun 06, 2026 02:31:24.571 [130660822702904] DEBUG - Translator: Found locale pt
+Jun 06, 2026 02:31:24.571 [130660822702904] DEBUG - Translator: Found locale fr
+Jun 06, 2026 02:31:24.571 [130660822702904] DEBUG - Translator: Found locale hr_HR
+Jun 06, 2026 02:31:24.571 [130660822702904] DEBUG - Translator: Found locale sk
+Jun 06, 2026 02:31:24.571 [130660822702904] DEBUG - Translator: Found locale es
+Jun 06, 2026 02:31:24.571 [130660822702904] DEBUG - Translator: Found locale sv
+Jun 06, 2026 02:31:24.571 [130660822702904] DEBUG - Translator: Found locale pl
+Jun 06, 2026 02:31:24.571 [130660822702904] DEBUG - Translator: Found locale ro
+Jun 06, 2026 02:31:24.571 [130660822702904] DEBUG - Translator: Found locale af
+Jun 06, 2026 02:31:24.571 [130660822702904] DEBUG - Translator: Found locale nl_BE
+Jun 06, 2026 02:31:24.571 [130660822702904] DEBUG - Translator: Found locale uk
+Jun 06, 2026 02:31:24.571 [130660822702904] DEBUG - Translator: Found locale en
+Jun 06, 2026 02:31:24.571 [130660822702904] DEBUG - Translator: Found locale nl
+Jun 06, 2026 02:31:24.571 [130660822702904] DEBUG - Translator: Found locale ja_JP
+Jun 06, 2026 02:31:24.571 [130660822702904] DEBUG - Translator: Found locale lt
+Jun 06, 2026 02:31:24.571 [130660822702904] DEBUG - Translator: Found locale sr
+Jun 06, 2026 02:31:24.572 [130660822702904] DEBUG - Translator: Found locale da
+Jun 06, 2026 02:31:24.572 [130660822702904] DEBUG - Translator: Found locale fi
+Jun 06, 2026 02:31:24.572 [130660822702904] DEBUG - Translator: Found locale he
+Jun 06, 2026 02:31:24.572 [130660822702904] DEBUG - Translator: Found locale zh_CN
+Jun 06, 2026 02:31:24.572 [130660822702904] DEBUG - Translator: Found locale ar
+Jun 06, 2026 02:31:24.572 [130660822702904] DEBUG - Translator: Found locale sl
+Jun 06, 2026 02:31:24.572 [130660822702904] DEBUG - Translator: Found locale ru
+Jun 06, 2026 02:31:24.572 [130660822702904] DEBUG - Translator: Found locale et_EE
+Jun 06, 2026 02:31:24.572 [130660822702904] DEBUG - Translator: Found locale hu
+Jun 06, 2026 02:31:24.692 [130660822702904] DEBUG - [Req#e] Starting file watcher for com.plexapp.agents.imdb
+Jun 06, 2026 02:31:24.692 [130660822702904] DEBUG - [Req#e] Plugin: setting environment variable: 'PYTHONHOME=/usr/lib/plexmediaserver/Resources/Python'
+Jun 06, 2026 02:31:24.692 [130660822702904] DEBUG - [Req#e] Plugin: setting environment variable: 'PYTHONPATH=/usr/lib/plexmediaserver/Resources/Python/python27.zip:/usr/lib/plexmediaserver/Resources/Python/lib/python2.7/site-packages'
+Jun 06, 2026 02:31:24.693 [130660822702904] DEBUG - [Req#e] Spawned plug-in com.plexapp.agents.imdb with PID 318
+Jun 06, 2026 02:31:24.693 [130660822702904] DEBUG - [Req#e] [com.plexapp.agents.imdb] Sending command: GET /:/prefixes
+Jun 06, 2026 02:31:26.949 [130660831140664] DEBUG - [MediaProviderManager] Refreshing media providers
+Jun 06, 2026 02:31:27.097 [130660831140664] DEBUG - [MediaProviderManager] we had 1 cloud providers online, we now have 1
+Jun 06, 2026 02:31:27.097 [130660831140664] DEBUG - [MediaProviderManager] cloud provider (Metadata) is online and available
+Jun 06, 2026 02:31:27.097 [130660831140664] DEBUG - [MediaProviderManager] Media provider refresh complete
+Jun 06, 2026 02:31:28.939 [130660843797304] DEBUG - [NSB] NetworkServiceBrowser: SERVER arrived: 127.0.0.1 (docker)
+Jun 06, 2026 02:31:28.939 [130660843797304] DEBUG - [NSB] Notifying the system bundle an update to server /system/notify/serverUpdated?host=127.0.0.1
+Jun 06, 2026 02:31:28.939 [130660843797304] DEBUG - [NSB] [com.plexapp.system] Sending command over HTTP (GET): /system/notify/serverUpdated?host=127.0.0.1
+Jun 06, 2026 02:31:28.939 [130660843797304] DEBUG - [NSB/HCl#d] HTTP requesting GET http://127.0.0.1:39121/system/notify/serverUpdated?host=127.0.0.1
+Jun 06, 2026 02:31:28.994 [130660848016184] DEBUG - Request: [127.0.0.1:60830 (Loopback)] GET /servers (2 live) #a GZIP Token ()
+Jun 06, 2026 02:31:28.995 [130660870327096] DEBUG - Completed: [127.0.0.1:60830] 200 GET /servers (2 live) #a GZIP 1ms 488 bytes
+Jun 06, 2026 02:31:29.004 [130660860705592] DEBUG - [HttpClient/HCl#d] HTTP/1.1 (0.1s) 200 response from GET http://127.0.0.1:39121/system/notify/serverUpdated?host=127.0.0.1 (reused)
+Jun 06, 2026 02:31:29.005 [130660843797304] DEBUG - [NSB] [com.plexapp.system] HTTP reply status 200, with 0 bytes of content.
+Jun 06, 2026 02:31:29.855 [130660850125624] DEBUG - Request: [127.0.0.1:60840 (Loopback)] GET /system/messaging/clear_events/com.plexapp.agents.imdb (2 live) #11 GZIP Token ()
+Jun 06, 2026 02:31:29.856 [130660850125624] DEBUG - [Req#11] [com.plexapp.system] Sending command over HTTP (GET): /system/messaging/clear_events/com.plexapp.agents.imdb
+Jun 06, 2026 02:31:29.856 [130660850125624] DEBUG - [Req#11/HCl#e] HTTP requesting GET http://127.0.0.1:39121/system/messaging/clear_events/com.plexapp.agents.imdb
+Jun 06, 2026 02:31:29.910 [130660860705592] DEBUG - [HttpClient/HCl#e] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:39121/system/messaging/clear_events/com.plexapp.agents.imdb (reused)
+Jun 06, 2026 02:31:29.910 [130660850125624] DEBUG - [Req#11] [com.plexapp.system] HTTP reply status 200, with 0 bytes of content.
+Jun 06, 2026 02:31:29.912 [130660870327096] DEBUG - Completed: [127.0.0.1:60840] 200 GET /system/messaging/clear_events/com.plexapp.agents.imdb (2 live) #11 GZIP 57ms 280 bytes
+Jun 06, 2026 02:31:30.319 [130660850125624] DEBUG - Request: [127.0.0.1:60842 (Loopback)] GET /:/plugins/com.plexapp.system/resourceHashes (2 live) #13 GZIP Token ()
+Jun 06, 2026 02:31:30.319 [130660850125624] DEBUG - [Req#13] [com.plexapp.system] Sending command over HTTP (GET): /:/plugins/com.plexapp.system/resourceHashes
+Jun 06, 2026 02:31:30.319 [130660850125624] DEBUG - [Req#13/HCl#f] HTTP requesting GET http://127.0.0.1:39121/:/plugins/com.plexapp.system/resourceHashes
+Jun 06, 2026 02:31:30.396 [130660860705592] DEBUG - [HttpClient/HCl#f] HTTP/1.1 (0.1s) 404 response from GET http://127.0.0.1:39121/:/plugins/com.plexapp.system/resourceHashes
+Jun 06, 2026 02:31:30.396 [130660850125624] DEBUG - [Req#13] [com.plexapp.system] HTTP reply status 404, with 0 bytes of content.
+Jun 06, 2026 02:31:30.396 [130660872436536] DEBUG - Completed: [127.0.0.1:60842] 404 GET /:/plugins/com.plexapp.system/resourceHashes (2 live) #13 GZIP 77ms 261 bytes
+Jun 06, 2026 02:31:30.446 [130660848016184] DEBUG - Request: [127.0.0.1:60852 (Loopback)] GET /:/plugins/com.plexapp.system/messaging/function/X0J1bmRsZVNlcnZpY2U6QWxsU2VydmljZXM_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMApyMAo_ (2 live) #15 GZIP Token ()
+Jun 06, 2026 02:31:30.446 [130660848016184] DEBUG - [Req#15] [com.plexapp.system] Sending command over HTTP (GET): /:/plugins/com.plexapp.system/messaging/function/X0J1bmRsZVNlcnZpY2U6QWxsU2VydmljZXM_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMApyMAo_
+Jun 06, 2026 02:31:30.447 [130660848016184] DEBUG - [Req#15/HCl#10] HTTP requesting GET http://127.0.0.1:39121/:/plugins/com.plexapp.system/messaging/function/X0J1bmRsZVNlcnZpY2U6QWxsU2VydmljZXM_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMApyMAo_
+Jun 06, 2026 02:31:30.456 [130660860705592] DEBUG - [HttpClient/HCl#10] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:39121/:/plugins/com.plexapp.system/messaging/function/X0J1bmRsZVNlcnZpY2U6QWxsU2VydmljZXM_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMApyMAo_
+Jun 06, 2026 02:31:30.456 [130660848016184] DEBUG - [Req#15] [com.plexapp.system] HTTP reply status 200, with 516 bytes of content.
+Jun 06, 2026 02:31:30.456 [130660872436536] DEBUG - Completed: [127.0.0.1:60852] 200 GET /:/plugins/com.plexapp.system/messaging/function/X0J1bmRsZVNlcnZpY2U6QWxsU2VydmljZXM_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMApyMAo_ (2 live) #15 GZIP 10ms 746 bytes
+Jun 06, 2026 02:31:30.605 [130660850125624] DEBUG - Request: [127.0.0.1:60858 (Loopback)] GET / (2 live) #17 GZIP Token ()
+Jun 06, 2026 02:31:30.611 [130660870327096] DEBUG - Completed: [127.0.0.1:60858] 200 GET / (2 live) #17 GZIP 5ms 2652 bytes
+Jun 06, 2026 02:31:32.065 [130660848016184] DEBUG - Request: [127.0.0.1:60860 (Loopback)] GET /:/plugins/com.plexapp.system/messaging/function/X0FnZW50U2VydmljZTpVcGRhdGVJbmZv/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQo3CmRpY3QKbGlzdApkaWN0Cmxpc3QKbGlzdApsaXN0Cmxpc3QKMgpzMjMKY29tLnBsZXhhcHAuYWdlbnRzLmltZGJzMTAKaWRlbnRpZmllcnIxCnMxMAphZ2VudF9pbmZvMQpyMgoxMApyMwpzMTEKbWVkaWFfdHlwZXNyNApzMTIKYWNjZXB0c19mcm9tbnMxNApmYWxsYmFja19hZ2VudHI1CnMxNApjb250cmlidXRlc190b3I2CnM5Cmxhbmd1YWdlc2IxczIwCnBlcnNpc3Rfc3RvcmVkX2ZpbGVzaTAKczcKdmVyc2lvbmIxczE2CnByaW1hcnlfcHJvdmlkZXJiMXM1CnByZWZzczE5ClBsZXggTW92aWUgKExlZ2FjeSlzNApuYW1lMQpzNQpNb3ZpZTEKczI5CmNvbS5wbGV4YXBwLmFnZW50cy5sb2NhbG1lZGlhMQpzMjkKY29tLnBsZXhhcHAuYWdlbnRzLnRoZW1vdmllZGIzMwpzMgplbnMyCnN2czIKZnJzMgplc3MyCm5sczIKZGVzMgppdHMyCmRhczIKYXJzMgpjYXMyCnpoczIKY3NzMgpldHMyCmZpczIKZWxzMgpoZXMyCmhpczIKaHVzMgppZHMyCmphczIKa29zMgpsdnMyCm5vczIKZmFzMgpwbHMyCnB0czIKcm9zMgpydXMyCnNrczIKdGhzMgp0cnMyCnVrczIKdmlyMAo_ (2 live) #19 GZIP Token ()
+Jun 06, 2026 02:31:32.066 [130660848016184] DEBUG - [Req#19] [com.plexapp.system] Sending command over HTTP (GET): /:/plugins/com.plexapp.system/messaging/function/X0FnZW50U2VydmljZTpVcGRhdGVJbmZv/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQo3CmRpY3QKbGlzdApkaWN0Cmxpc3QKbGlzdApsaXN0Cmxpc3QKMgpzMjMKY29tLnBsZXhhcHAuYWdlbnRzLmltZGJzMTAKaWRlbnRpZmllcnIxCnMxMAphZ2VudF9pbmZvMQpyMgoxMApyMwpzMTEKbWVkaWFfdHlwZXNyNApzMTIKYWNjZXB0c19mcm9tbnMxNApmYWxsYmFja19hZ2VudHI1CnMxNApjb250cmlidXRlc190b3I2CnM5Cmxhbmd1YWdlc2IxczIwCnBlcnNpc3Rfc3RvcmVkX2ZpbGVzaTAKczcKdmVyc2lvbmIxczE2CnByaW1hcnlfcHJvdmlkZXJiMXM1CnByZWZzczE5ClBsZXggTW92aWUgKExlZ2FjeSlzNApuYW1lMQpzNQpNb3ZpZTEKczI5CmNvbS5wbGV4YXBwLmFnZW50cy5sb2NhbG1lZGlhMQpzMjkKY29tLnBsZXhhcHAuYWdlbnRzLnRoZW1vdmllZGIzMwpzMgplbnMyCnN2czIKZnJzMgplc3MyCm5sczIKZGVzMgppdHMyCmRhczIKYXJzMgpjYXMyCnpoczIKY3NzMgpldHMyCmZpczIKZWxzMgpoZXMyCmhpczIKaHVzMgppZHMyCmphczIKa29zMgpsdnMyCm5vczIKZmFzMgpwbHMyCnB0czIKcm9zMgpydXMyCnNrczIKdGhzMgp0cnMyCnVrczIKdmlyMAo_
+Jun 06, 2026 02:31:32.066 [130660848016184] DEBUG - [Req#19/HCl#11] HTTP requesting GET http://127.0.0.1:39121/:/plugins/com.plexapp.system/messaging/function/X0FnZW50U2VydmljZTpVcGRhdGVJbmZv/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQo3CmRpY3QKbGlzdApkaWN0Cmxpc3QKbGlzdApsaXN0Cmxpc3QKMgpzMjMKY29tLnBsZXhhcHAuYWdlbnRzLmltZGJzMTAKaWRlbnRpZmllcnIxCnMxMAphZ2VudF9pbmZvMQpyMgoxMApyMwpzMTEKbWVkaWFfdHlwZXNyNApzMTIKYWNjZXB0c19mcm9tbnMxNApmYWxsYmFja19hZ2VudHI1CnMxNApjb250cmlidXRlc190b3I2CnM5Cmxhbmd1YWdlc2IxczIwCnBlcnNpc3Rfc3RvcmVkX2ZpbGVzaTAKczcKdmVyc2lvbmIxczE2CnByaW1hcnlfcHJvdmlkZXJiMXM1CnByZWZzczE5ClBsZXggTW92aWUgKExlZ2FjeSlzNApuYW1lMQpzNQpNb3ZpZTEKczI5CmNvbS5wbGV4YXBwLmFnZW50cy5sb2NhbG1lZGlhMQpzMjkKY29tLnBsZXhhcHAuYWdlbnRzLnRoZW1vdmllZGIzMwpzMgplbnMyCnN2czIKZnJzMgplc3MyCm5sczIKZGVzMgppdHMyCmRhczIKYXJzMgpjYXMyCnpoczIKY3NzMgpldHMyCmZpczIKZWxzMgpoZXMyCmhpczIKaHVzMgppZHMyCmphczIKa29zMgpsdnMyCm5vczIKZmFzMgpwbHMyCnB0czIKcm9zMgpydXMyCnNrczIKdGhzMgp0cnMyCnVrczIKdmlyMAo_
+Jun 06, 2026 02:31:32.192 [130660829031224] DEBUG - DVR:Device: Discovering and refreshing all devices.
+Jun 06, 2026 02:31:32.192 [130660829031224] DEBUG - Grabber: HDHomerun discovered 0 compatible devices.
+Jun 06, 2026 02:31:32.192 [130660829031224] DEBUG - [HCl#12] HTTP requesting POST http://127.0.0.1:32600/devices/discover
+Jun 06, 2026 02:31:32.201 [130660860705592] DEBUG - [HttpClient/HCl#11] HTTP/1.1 (0.1s) 200 response from GET http://127.0.0.1:39121/:/plugins/com.plexapp.system/messaging/function/X0FnZW50U2VydmljZTpVcGRhdGVJbmZv/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQo3CmRpY3QKbGlzdApkaWN0Cmxpc3QKbGlzdApsaXN0Cmxpc3QKMgpzMjMKY29tLnBsZXhhcHAuYWdlbnRzLmltZGJzMTAKaWRlbnRpZmllcnIxCnMxMAphZ2VudF9pbmZvMQpyMgoxMApyMwpzMTEKbWVkaWFfdHlwZXNyNApzMTIKYWNjZXB0c19mcm9tbnMxNApmYWxsYmFja19hZ2VudHI1CnMxNApjb250cmlidXRlc190b3I2CnM5Cmxhbmd1YWdlc2IxczIwCnBlcnNpc3Rfc3RvcmVkX2ZpbGVzaTAKczcKdmVyc2lvbmIxczE2CnByaW1hcnlfcHJvdmlkZXJiMXM1CnByZWZzczE5ClBsZXggTW92aWUgKExlZ2FjeSlzNApuYW1lMQpzNQpNb3ZpZTEKczI5CmNvbS5wbGV4YXBwLmFnZW50cy5sb2NhbG1lZGlhMQpzMjkKY29tLnBsZXhhcHAuYWdlbnRzLnRoZW1vdmllZGIzMwpzMgplbnMyCnN2czIKZnJzMgplc3MyCm5sczIKZGVzMgppdHMyCmRhczIKYXJzMgpjYXMyCnpoczIKY3NzMgpldHMyCmZpczIKZWxzMgpoZXMyCmhpczIKaHVzMgppZHMyCmphczIKa29zMgpsdnMyCm5vczIKZmFzMgpwbHMyCnB0czIKcm9zMgpydXMyCnNrczIKdGhzMgp0cnMyCnVrczIKdmlyMAo_
+Jun 06, 2026 02:31:32.205 [130660848016184] DEBUG - [Req#19] [com.plexapp.system] HTTP reply status 200, with 16 bytes of content.
+Jun 06, 2026 02:31:32.205 [130660870327096] DEBUG - Completed: [127.0.0.1:60860] 200 GET /:/plugins/com.plexapp.system/messaging/function/X0FnZW50U2VydmljZTpVcGRhdGVJbmZv/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQo3CmRpY3QKbGlzdApkaWN0Cmxpc3QKbGlzdApsaXN0Cmxpc3QKMgpzMjMKY29tLnBsZXhhcHAuYWdlbnRzLmltZGJzMTAKaWRlbnRpZmllcnIxCnMxMAphZ2VudF9pbmZvMQpyMgoxMApyMwpzMTEKbWVkaWFfdHlwZXNyNApzMTIKYWNjZXB0c19mcm9tbnMxNApmYWxsYmFja19hZ2VudHI1CnMxNApjb250cmlidXRlc190b3I2CnM5Cmxhbmd1YWdlc2IxczIwCnBlcnNpc3Rfc3RvcmVkX2ZpbGVzaTAKczcKdmVyc2lvbmIxczE2CnByaW1hcnlfcHJvdmlkZXJiMXM1CnByZWZzczE5ClBsZXggTW92aWUgKExlZ2FjeSlzNApuYW1lMQpzNQpNb3ZpZTEKczI5CmNvbS5wbGV4YXBwLmFnZW50cy5sb2NhbG1lZGlhMQpzMjkKY29tLnBsZXhhcHAuYWdlbnRzLnRoZW1vdmllZGIzMwpzMgplbnMyCnN2czIKZnJzMgplc3MyCm5sczIKZGVzMgppdHMyCmRhczIKYXJzMgpjYXMyCnpoczIKY3NzMgpldHMyCmZpczIKZWxzMgpoZXMyCmhpczIKaHVzMgppZHMyCmphczIKa29zMgpsdnMyCm5vczIKZmFzMgpwbHMyCnB0czIKcm9zMgpydXMyCnNrczIKdGhzMgp0cnMyCnVrczIKdmlyMAo_ (2 live) #19 GZIP 139ms 415 bytes
+Jun 06, 2026 02:31:32.214 [130660822702904] DEBUG - [Req#e] Reading 148 bytes in the body, code is 200
+Jun 06, 2026 02:31:32.214 [130660822702904] DEBUG - [Req#e] [com.plexapp.agents.imdb] Plug-in running on port 33189.
+Jun 06, 2026 02:31:32.215 [130660822702904] DEBUG - [Req#e] Read configuration for [com.plexapp.agents.imdb], had 0 prefixes
+Jun 06, 2026 02:31:32.215 [130660822702904] DEBUG - [Req#e] [com.plexapp.agents.imdb] Sending command over HTTP (GET): /:/plugins/com.plexapp.agents.imdb/prefs
+Jun 06, 2026 02:31:32.215 [130660822702904] DEBUG - [Req#e/HCl#13] HTTP requesting GET http://127.0.0.1:33189/:/plugins/com.plexapp.agents.imdb/prefs
+Jun 06, 2026 02:31:33.668 [130660860705592] DEBUG - [HttpClient/HCl#13] HTTP/1.1 (1.5s) 200 response from GET http://127.0.0.1:33189/:/plugins/com.plexapp.agents.imdb/prefs
+Jun 06, 2026 02:31:33.668 [130660822702904] DEBUG - [Req#e] [com.plexapp.agents.imdb] HTTP reply status 200, with 2224 bytes of content.
+Jun 06, 2026 02:31:33.669 [130660822702904] DEBUG - Caching document http://127.0.0.1:32400/:/plugins/com.plexapp.agents.imdb/prefs as 2b2a71086d0a3856e99e10a276501304beab31c6
+Jun 06, 2026 02:31:33.669 [130660822702904] DEBUG - IVA: Downloading trailer lists.
+Jun 06, 2026 02:31:33.864 [130660822702904] DEBUG - IVA: Downloaded 6 trailers for source 1.
+Jun 06, 2026 02:31:33.914 [130660822702904] DEBUG - IVA: Downloaded 30 trailers for source 2.
+Jun 06, 2026 02:31:33.958 [130660839578424] DEBUG - Grabber: Cleaning up orphaned grabs.
+Jun 06, 2026 02:31:33.958 [130660839578424] DEBUG - Grabber: Cleaned up 0 decrepit directories in 0.0 sec.
+Jun 06, 2026 02:31:33.959 [130660839578424] DEBUG - Activity: registered new activity a2553f6c-33ac-4924-868d-4b24361dde07 - "Processing subscriptions"
+Jun 06, 2026 02:31:33.959 [130660839578424] DEBUG - Subscription: Scheduling subscriptions.
+Jun 06, 2026 02:31:33.959 [130660839578424] DEBUG - Subscription: Initialized 0 schedulers.
+Jun 06, 2026 02:31:33.959 [130660839578424] DEBUG - Subscription: Starting with 0 grabs, scheduled 0 active ones preemptively.
+Jun 06, 2026 02:31:33.959 [130660839578424] DEBUG - Subscription: Scheduled all subscriptions in 0 ms.
+Jun 06, 2026 02:31:33.959 [130660839578424] DEBUG - Activity: Ended activity a2553f6c-33ac-4924-868d-4b24361dde07.
+Jun 06, 2026 02:31:33.959 [130660839578424] DEBUG - Subscription: There are 0 active grabs at the end.
+Jun 06, 2026 02:31:33.960 [130660839578424] DEBUG - Activity: Ended activity 7079f9a9-8b52-407b-a413-8016589927ac.
+Jun 06, 2026 02:31:33.960 [130660839578424] DEBUG - Subscription: Refreshed all content in 2 ms.
+Jun 06, 2026 02:31:34.648 [130660860705592] DEBUG - [HttpClient/HCl#12] HTTP/1.1 (2.5s) 200 response from POST http://127.0.0.1:32600/devices/discover
+Jun 06, 2026 02:31:53.991 [130660843797304] DEBUG - [NSB/SSDP] Parsing SSDP schema for http://192.168.1.1:34555/rootDesc.xml
+Jun 06, 2026 02:31:53.994 [130660860705592] DEBUG - [HttpClient/HCl#16] HTTP/1.1 (0.0s) 200 response from GET http://192.168.1.1:34555/rootDesc.xml
+Jun 06, 2026 02:31:53.996 [130660843797304] DEBUG - [NSB/SSDP] found 3 SSDP devices via http://192.168.1.1:34555/rootDesc.xml
+Jun 06, 2026 02:31:53.996 [130660843797304] DEBUG - [NSB/SSDP] SSDP arrived: 192.168.1.1 (SAX2V1R)
+Jun 06, 2026 02:31:53.996 [130660843797304] DEBUG - [NSB/SSDP] SSDP arrived: 192.168.1.1 (WANDevice)
+Jun 06, 2026 02:31:53.996 [130660843797304] DEBUG - [NSB/SSDP] SSDP arrived: 192.168.1.1 (WANConnectionDevice)
+Jun 06, 2026 02:31:55.372 [130660843797304] DEBUG - [NSB/SSDP] Parsing SSDP schema for http://192.168.1.81:8008/ssdp/device-desc.xml
+Jun 06, 2026 02:31:55.392 [130660860705592] DEBUG - [HttpClient/HCl#17] HTTP/1.1 (0.0s) 200 response from GET http://192.168.1.81:8008/ssdp/device-desc.xml
+Jun 06, 2026 02:31:55.393 [130660843797304] DEBUG - [NSB/SSDP] found 1 SSDP devices via http://192.168.1.81:8008/ssdp/device-desc.xml
+Jun 06, 2026 02:31:55.393 [130660843797304] DEBUG - [NSB/SSDP] SSDP arrived: 192.168.1.81 (Bedroom TV)
+Jun 06, 2026 02:31:56.365 [130660843797304] DEBUG - [NSB/SSDP] Parsing SSDP schema for http://192.168.1.126:2869/upnphost/udhisapi.dll?content=uuid:4d99ba9e-f617-4794-bb20-09aee8b97d57
+Jun 06, 2026 02:31:56.373 [130660860705592] DEBUG - [HttpClient/HCl#18] HTTP/1.1 (0.0s) 200 response from GET http://192.168.1.126:2869/upnphost/udhisapi.dll?content=uuid:4d99ba9e-f617-4794-bb20-09aee8b97d57
+Jun 06, 2026 02:31:56.374 [130660843797304] DEBUG - [NSB/SSDP] found 1 SSDP devices via http://192.168.1.126:2869/upnphost/udhisapi.dll?content=uuid:4d99ba9e-f617-4794-bb20-09aee8b97d57
+Jun 06, 2026 02:31:56.374 [130660843797304] DEBUG - [NSB/SSDP] SSDP arrived: 192.168.1.126 (BELLES-PC: belles:)
+Jun 06, 2026 02:32:25.941 [130660839578424] DEBUG - SSDP departed after not being seen for 29.567178 seconds: 192.168.1.126 (BELLES-PC: belles:)
+Jun 06, 2026 02:32:27.113 [130660843797304] DEBUG - [NSB/SSDP] Parsing SSDP schema for http://192.168.1.126:2869/upnphost/udhisapi.dll?content=uuid:4d99ba9e-f617-4794-bb20-09aee8b97d57
+Jun 06, 2026 02:32:27.117 [130660860705592] DEBUG - [HttpClient/HCl#19] HTTP/1.1 (0.0s) 200 response from GET http://192.168.1.126:2869/upnphost/udhisapi.dll?content=uuid:4d99ba9e-f617-4794-bb20-09aee8b97d57 (reused)
+Jun 06, 2026 02:32:27.118 [130660843797304] DEBUG - [NSB/SSDP] found 1 SSDP devices via http://192.168.1.126:2869/upnphost/udhisapi.dll?content=uuid:4d99ba9e-f617-4794-bb20-09aee8b97d57
+Jun 06, 2026 02:32:27.118 [130660843797304] DEBUG - [NSB/SSDP] SSDP arrived: 192.168.1.126 (BELLES-PC: belles:)
+Jun 06, 2026 02:32:55.942 [130660822702904] DEBUG - SSDP departed after not being seen for 31.994135 seconds: 192.168.1.81 (Bedroom TV)
+Jun 06, 2026 02:32:56.372 [130660843797304] DEBUG - [NSB/SSDP] Parsing SSDP schema for http://192.168.1.81:8008/ssdp/device-desc.xml
+Jun 06, 2026 02:32:56.380 [130660860705592] DEBUG - [HttpClient/HCl#1a] HTTP/1.1 (0.0s) 200 response from GET http://192.168.1.81:8008/ssdp/device-desc.xml (reused)
+Jun 06, 2026 02:32:56.380 [130660843797304] DEBUG - [NSB/SSDP] found 1 SSDP devices via http://192.168.1.81:8008/ssdp/device-desc.xml
+Jun 06, 2026 02:32:56.380 [130660843797304] DEBUG - [NSB/SSDP] SSDP arrived: 192.168.1.81 (Bedroom TV)
+Jun 06, 2026 02:32:59.373 [130660850125624] DEBUG - BPQ: [Starting] -> [Processing]
+Jun 06, 2026 02:32:59.375 [130660850125624] DEBUG - BPQ: generating queue items from 0 generator(s)
+Jun 06, 2026 02:32:59.375 [130660850125624] DEBUG - BPQ: generated 0 item(s) for queue
+Jun 06, 2026 02:32:59.375 [130660850125624] DEBUG - BPQ: [Processing] -> [Idle]
+Jun 06, 2026 02:33:21.951 [130660848016184] DEBUG - Request: [127.0.0.1:34798 (Loopback)] GET /servers (2 live) #1b GZIP Token ()
+Jun 06, 2026 02:33:21.951 [130660872436536] DEBUG - Completed: [127.0.0.1:34798] 200 GET /servers (2 live) #1b GZIP 0ms 488 bytes
+Jun 06, 2026 02:33:21.954 [130660848016184] DEBUG - Request: [127.0.0.1:34812 (Loopback)] GET / (2 live) #1e GZIP Token ()
+Jun 06, 2026 02:33:21.955 [130660870327096] DEBUG - Completed: [127.0.0.1:34812] 200 GET / (2 live) #1e GZIP 0ms 2652 bytes
+Jun 06, 2026 02:33:21.957 [130660848016184] DEBUG - Request: [127.0.0.1:34814 (Loopback)] GET /library/sections (2 live) #20 GZIP Token ()
+Jun 06, 2026 02:33:21.959 [130660870327096] DEBUG - Completed: [127.0.0.1:34814] 200 GET /library/sections (2 live) #20 GZIP 1ms 403 bytes
+Jun 06, 2026 02:33:21.960 [130660848016184] DEBUG - Request: [127.0.0.1:34820 (Loopback)] GET /channels/all (2 live) #22 GZIP Token ()
+Jun 06, 2026 02:33:21.961 [130660870327096] DEBUG - Completed: [127.0.0.1:34820] 200 GET /channels/all (2 live) #22 GZIP 0ms 387 bytes
+Jun 06, 2026 02:33:21.964 [130660848016184] DEBUG - Request: [127.0.0.1:34824 (Loopback)] GET /library/sections (2 live) #24 GZIP Token ()
+Jun 06, 2026 02:33:21.964 [130660870327096] DEBUG - Completed: [127.0.0.1:34824] 200 GET /library/sections (2 live) #24 GZIP 0ms 403 bytes
+Jun 06, 2026 02:33:21.966 [130660848016184] DEBUG - Request: [127.0.0.1:34832 (Loopback)] GET /channels/all (2 live) #26 GZIP Token ()
+Jun 06, 2026 02:33:21.966 [130660870327096] DEBUG - Completed: [127.0.0.1:34832] 200 GET /channels/all (2 live) #26 GZIP 0ms 387 bytes
+Jun 06, 2026 02:34:55.946 [130660829031224] DEBUG - SSDP departed after not being seen for 30.439923 seconds: 192.168.1.126 (BELLES-PC: belles:)
+Jun 06, 2026 02:34:57.250 [130660843797304] DEBUG - [NSB/SSDP] Parsing SSDP schema for http://192.168.1.126:2869/upnphost/udhisapi.dll?content=uuid:4d99ba9e-f617-4794-bb20-09aee8b97d57
+Jun 06, 2026 02:34:57.257 [130660860705592] DEBUG - [HttpClient/HCl#1b] HTTP/1.1 (0.0s) 200 response from GET http://192.168.1.126:2869/upnphost/udhisapi.dll?content=uuid:4d99ba9e-f617-4794-bb20-09aee8b97d57
+Jun 06, 2026 02:34:57.258 [130660843797304] DEBUG - [NSB/SSDP] found 1 SSDP devices via http://192.168.1.126:2869/upnphost/udhisapi.dll?content=uuid:4d99ba9e-f617-4794-bb20-09aee8b97d57
+Jun 06, 2026 02:34:57.258 [130660843797304] DEBUG - [NSB/SSDP] SSDP arrived: 192.168.1.126 (BELLES-PC: belles:)
+Jun 06, 2026 02:35:25.947 [130660824812344] DEBUG - SSDP departed after not being seen for 28.689055 seconds: 192.168.1.126 (BELLES-PC: belles:)
+Jun 06, 2026 02:35:26.884 [130660843797304] DEBUG - [NSB/SSDP] Parsing SSDP schema for http://192.168.1.126:2869/upnphost/udhisapi.dll?content=uuid:4d99ba9e-f617-4794-bb20-09aee8b97d57
+Jun 06, 2026 02:35:26.887 [130660860705592] DEBUG - [HttpClient/HCl#1c] HTTP/1.1 (0.0s) 200 response from GET http://192.168.1.126:2869/upnphost/udhisapi.dll?content=uuid:4d99ba9e-f617-4794-bb20-09aee8b97d57 (reused)
+Jun 06, 2026 02:35:26.888 [130660843797304] DEBUG - [NSB/SSDP] found 1 SSDP devices via http://192.168.1.126:2869/upnphost/udhisapi.dll?content=uuid:4d99ba9e-f617-4794-bb20-09aee8b97d57
+Jun 06, 2026 02:35:26.888 [130660843797304] DEBUG - [NSB/SSDP] SSDP arrived: 192.168.1.126 (BELLES-PC: belles:)
+Jun 06, 2026 02:35:55.949 [130660822702904] DEBUG - SSDP departed after not being seen for 30.577811 seconds: 192.168.1.81 (Bedroom TV)
+Jun 06, 2026 02:35:56.371 [130660843797304] DEBUG - [NSB/SSDP] Parsing SSDP schema for http://192.168.1.81:8008/ssdp/device-desc.xml
+Jun 06, 2026 02:35:56.385 [130660860705592] DEBUG - [HttpClient/HCl#1d] HTTP/1.1 (0.0s) 200 response from GET http://192.168.1.81:8008/ssdp/device-desc.xml
+Jun 06, 2026 02:35:56.386 [130660843797304] DEBUG - [NSB/SSDP] found 1 SSDP devices via http://192.168.1.81:8008/ssdp/device-desc.xml
+Jun 06, 2026 02:35:56.386 [130660843797304] DEBUG - [NSB/SSDP] SSDP arrived: 192.168.1.81 (Bedroom TV)
+Jun 06, 2026 02:36:23.939 [130660824812344] DEBUG - Butler: we're in the window, starting.
+Jun 06, 2026 02:36:23.939 [130660824812344] DEBUG - Butler: Waking up!
+Jun 06, 2026 02:36:23.939 [130660824812344] DEBUG - Butler: Scheduling randomized task 'RefreshEpgGuides' in 111 minutes.
+Jun 06, 2026 02:36:23.939 [130660824812344] DEBUG - Butler: Scheduling randomized task 'RefreshPeriodicMetadata' in 89 minutes.
+Jun 06, 2026 02:36:23.939 [130660824812344] DEBUG - Butler: Scheduling randomized task 'ButlerTaskGenerateCreditsMarkers' in 114 minutes.
+Jun 06, 2026 02:36:23.940 [130660850125624] DEBUG - Activity: registered new activity d990061a-2326-48f5-a728-6799b724e654 - "Butler tasks"
+Jun 06, 2026 02:36:23.940 [130660850125624] DEBUG - [Database backup/com.plexapp.plugins.library.db] Activity: registered new activity 388eaca5-ee41-4e60-86a2-e992523d40bc - "Database"
+Jun 06, 2026 02:36:23.947 [130660850125624] DEBUG - [Database backup/com.plexapp.plugins.library.db] Beginning database backup
+Jun 06, 2026 02:36:23.947 [130660850125624] DEBUG - [Database backup/com.plexapp.plugins.library.db] Captured session 0.
+Jun 06, 2026 02:36:23.947 [130660850125624] DEBUG - [Database backup/com.plexapp.plugins.library.db] Captured session 1.
+Jun 06, 2026 02:36:23.947 [130660850125624] DEBUG - [Database backup/com.plexapp.plugins.library.db] Captured session 2.
+Jun 06, 2026 02:36:23.947 [130660850125624] DEBUG - [Database backup/com.plexapp.plugins.library.db] Captured session 3.
+Jun 06, 2026 02:36:23.947 [130660850125624] DEBUG - [Database backup/com.plexapp.plugins.library.db] Captured session 4.
+Jun 06, 2026 02:36:23.947 [130660850125624] DEBUG - [Database backup/com.plexapp.plugins.library.db] Captured session 5.
+Jun 06, 2026 02:36:23.947 [130660850125624] DEBUG - [Database backup/com.plexapp.plugins.library.db] Captured session 6.
+Jun 06, 2026 02:36:23.947 [130660850125624] DEBUG - [Database backup/com.plexapp.plugins.library.db] Captured session 7.
+Jun 06, 2026 02:36:23.947 [130660850125624] DEBUG - [Database backup/com.plexapp.plugins.library.db] Captured session 8.
+Jun 06, 2026 02:36:23.947 [130660850125624] DEBUG - [Database backup/com.plexapp.plugins.library.db] Captured session 9.
+Jun 06, 2026 02:36:23.947 [130660850125624] DEBUG - [Database backup/com.plexapp.plugins.library.db] Captured session 10.
+Jun 06, 2026 02:36:23.947 [130660850125624] DEBUG - [Database backup/com.plexapp.plugins.library.db] Captured session 11.
+Jun 06, 2026 02:36:23.947 [130660850125624] DEBUG - [Database backup/com.plexapp.plugins.library.db] Captured session 12.
+Jun 06, 2026 02:36:23.947 [130660850125624] DEBUG - [Database backup/com.plexapp.plugins.library.db] Captured session 13.
+Jun 06, 2026 02:36:23.947 [130660850125624] DEBUG - [Database backup/com.plexapp.plugins.library.db] Captured session 14.
+Jun 06, 2026 02:36:23.947 [130660850125624] DEBUG - [Database backup/com.plexapp.plugins.library.db] Captured session 15.
+Jun 06, 2026 02:36:23.947 [130660850125624] DEBUG - [Database backup/com.plexapp.plugins.library.db] Captured session 16.
+Jun 06, 2026 02:36:23.947 [130660850125624] DEBUG - [Database backup/com.plexapp.plugins.library.db] Captured session 17.
+Jun 06, 2026 02:36:23.947 [130660850125624] DEBUG - [Database backup/com.plexapp.plugins.library.db] Captured session 18.
+Jun 06, 2026 02:36:23.947 [130660850125624] DEBUG - [Database backup/com.plexapp.plugins.library.db] Captured session 19.
+Jun 06, 2026 02:36:23.951 [130660850125624] DEBUG - [Database backup/com.plexapp.plugins.library.db] Activity: updated activity 388eaca5-ee41-4e60-86a2-e992523d40bc - completed 81.0% - Database
+Jun 06, 2026 02:36:23.982 [130660850125624] DEBUG - [Database backup/com.plexapp.plugins.library.db] Activity: updated activity 388eaca5-ee41-4e60-86a2-e992523d40bc - completed 100.0% - Database
+Jun 06, 2026 02:36:23.991 [130660850125624] DEBUG - [Database backup/com.plexapp.plugins.library.db] Database backup completed: 0
+Jun 06, 2026 02:36:23.991 [130660850125624] DEBUG - [Database backup/com.plexapp.plugins.library.db] Activity: Ended activity 388eaca5-ee41-4e60-86a2-e992523d40bc.
+Jun 06, 2026 02:36:23.991 [130660850125624] DEBUG - Butler: backed up your database
+Jun 06, 2026 02:36:23.991 [130660850125624] DEBUG - [Database backup/com.plexapp.plugins.library.blobs.db] Activity: registered new activity dbc16cc3-d28e-48c6-b72f-bd396dc059dc - "Database"
+Jun 06, 2026 02:36:24.001 [130660850125624] DEBUG - [Database backup/com.plexapp.plugins.library.blobs.db] Beginning database backup
+Jun 06, 2026 02:36:24.001 [130660850125624] DEBUG - [Database backup/com.plexapp.plugins.library.blobs.db] Captured session 0.
+Jun 06, 2026 02:36:24.001 [130660850125624] DEBUG - [Database backup/com.plexapp.plugins.library.blobs.db] Captured session 1.
+Jun 06, 2026 02:36:24.004 [130660850125624] DEBUG - [Database backup/com.plexapp.plugins.library.blobs.db] Activity: updated activity dbc16cc3-d28e-48c6-b72f-bd396dc059dc - completed 82.0% - Database
+Jun 06, 2026 02:36:24.032 [130660850125624] DEBUG - [Database backup/com.plexapp.plugins.library.blobs.db] Activity: updated activity dbc16cc3-d28e-48c6-b72f-bd396dc059dc - completed 100.0% - Database
+Jun 06, 2026 02:36:24.033 [130660850125624] DEBUG - [Database backup/com.plexapp.plugins.library.blobs.db] Database backup completed: 0
+Jun 06, 2026 02:36:24.033 [130660850125624] DEBUG - [Database backup/com.plexapp.plugins.library.blobs.db] Activity: Ended activity dbc16cc3-d28e-48c6-b72f-bd396dc059dc.
+Jun 06, 2026 02:36:24.033 [130660850125624] DEBUG - Butler: backed up your database
+Jun 06, 2026 02:36:24.034 [130660850125624] ERROR - Butler: Uncaught exception starting generator UpgradeMediaAnalysis: Vectors of size 0 are not allowed.
+Jun 06, 2026 02:36:24.034 [130660850125624] DEBUG - Activity: registered new sub-activity ef20f4b5-9ddb-4008-bdfc-3885cd6b2c3e - "BackupDatabase" parent: d990061a-2326-48f5-a728-6799b724e654 overall progress: 0.0% (0/1)
+Jun 06, 2026 02:36:24.035 [130660850125624] DEBUG - Activity: ended sub-activity ef20f4b5-9ddb-4008-bdfc-3885cd6b2c3e parent: d990061a-2326-48f5-a728-6799b724e654 overall progress: 100.0% (1/1)
+Jun 06, 2026 02:36:24.035 [130660850125624] DEBUG - Activity: updated activity d990061a-2326-48f5-a728-6799b724e654 - completed 100.0% - Butler tasks
+Jun 06, 2026 02:36:24.038 [130660850125624] DEBUG - Butler: Computed a set of 0 audio tracks to get loudness analysis in 0ms.
+Jun 06, 2026 02:36:24.040 [130660850125624] DEBUG - Activity: registered new sub-activity 4512f2ea-7990-48fb-92c2-cc847461f721 - "GarbageCollectLibraryMedia" parent: d990061a-2326-48f5-a728-6799b724e654 overall progress: 50.0% (1/2)
+Jun 06, 2026 02:36:24.041 [130660850125624] DEBUG - Activity: updated activity d990061a-2326-48f5-a728-6799b724e654 - completed 50.0% - Butler tasks
+Jun 06, 2026 02:36:24.041 [130660850125624] DEBUG - Activity: ended sub-activity 4512f2ea-7990-48fb-92c2-cc847461f721 parent: d990061a-2326-48f5-a728-6799b724e654 overall progress: 100.0% (2/2)
+Jun 06, 2026 02:36:24.041 [130660850125624] DEBUG - Activity: updated activity d990061a-2326-48f5-a728-6799b724e654 - completed 100.0% - Butler tasks
+Jun 06, 2026 02:36:24.041 [130660850125624] DEBUG - Activity: registered new sub-activity a3082e15-7991-4692-b8f3-34dd15b1c789 - "RefreshLocalMedia" parent: d990061a-2326-48f5-a728-6799b724e654 overall progress: 66.7% (2/3)
+Jun 06, 2026 02:36:24.041 [130660850125624] DEBUG - Activity: updated activity d990061a-2326-48f5-a728-6799b724e654 - completed 66.7% - Butler tasks
+Jun 06, 2026 02:36:24.041 [130660850125624] DEBUG - Activity: ended sub-activity a3082e15-7991-4692-b8f3-34dd15b1c789 parent: d990061a-2326-48f5-a728-6799b724e654 overall progress: 100.0% (3/3)
+Jun 06, 2026 02:36:24.042 [130660850125624] DEBUG - Activity: updated activity d990061a-2326-48f5-a728-6799b724e654 - completed 100.0% - Butler tasks
+Jun 06, 2026 02:36:24.042 [130660850125624] DEBUG - Butler: refreshed 0 items
+Jun 06, 2026 02:36:24.042 [130660850125624] DEBUG - Activity: registered new sub-activity c521add5-35d1-4de8-86a0-bbab804455ab - "LoudnessAnalysis" parent: d990061a-2326-48f5-a728-6799b724e654 overall progress: 75.0% (3/4)
+Jun 06, 2026 02:36:24.042 [130660850125624] DEBUG - Activity: updated activity d990061a-2326-48f5-a728-6799b724e654 - completed 75.0% - Butler tasks
+Jun 06, 2026 02:36:24.042 [130660850125624] DEBUG - Activity: ended sub-activity c521add5-35d1-4de8-86a0-bbab804455ab parent: d990061a-2326-48f5-a728-6799b724e654 overall progress: 100.0% (4/4)
+Jun 06, 2026 02:36:24.042 [130660850125624] DEBUG - Activity: updated activity d990061a-2326-48f5-a728-6799b724e654 - completed 100.0% - Butler tasks
+Jun 06, 2026 02:36:24.042 [130660850125624] DEBUG - The butler performed loudness analysis on 0 albums.
+Jun 06, 2026 02:36:24.043 [130660850125624] DEBUG - Activity: registered new sub-activity be520f79-be7f-46c6-8ac1-6809188e4f7d - "MusicAnalysis" parent: d990061a-2326-48f5-a728-6799b724e654 overall progress: 80.0% (4/5)
+Jun 06, 2026 02:36:24.043 [130660850125624] DEBUG - Activity: updated activity d990061a-2326-48f5-a728-6799b724e654 - completed 80.0% - Butler tasks
+Jun 06, 2026 02:36:24.043 [130660850125624] DEBUG - Activity: ended sub-activity be520f79-be7f-46c6-8ac1-6809188e4f7d parent: d990061a-2326-48f5-a728-6799b724e654 overall progress: 100.0% (5/5)
+Jun 06, 2026 02:36:24.043 [130660850125624] DEBUG - Activity: updated activity d990061a-2326-48f5-a728-6799b724e654 - completed 100.0% - Butler tasks
+Jun 06, 2026 02:36:24.043 [130660850125624] DEBUG - Butler: Performed sonic analysis on 0 batches of albums.
+Jun 06, 2026 02:36:24.043 [130660850125624] DEBUG - Activity: registered new sub-activity 71bb89fc-a51a-4ef7-8e41-a73f039b6e1c - "ProcessAssets" parent: d990061a-2326-48f5-a728-6799b724e654 overall progress: 83.3% (5/6)
+Jun 06, 2026 02:36:24.044 [130660850125624] DEBUG - Activity: updated activity d990061a-2326-48f5-a728-6799b724e654 - completed 83.3% - Butler tasks
+Jun 06, 2026 02:36:24.044 [130660850125624] DEBUG - Activity: ended sub-activity 71bb89fc-a51a-4ef7-8e41-a73f039b6e1c parent: d990061a-2326-48f5-a728-6799b724e654 overall progress: 100.0% (6/6)
+Jun 06, 2026 02:36:24.044 [130660850125624] DEBUG - Activity: updated activity d990061a-2326-48f5-a728-6799b724e654 - completed 100.0% - Butler tasks
+Jun 06, 2026 02:36:24.044 [130660850125624] DEBUG - The butler processed 0 assets.
+Jun 06, 2026 02:36:24.044 [130660850125624] DEBUG - Activity: registered new sub-activity a723996e-230a-462f-829e-5a3a55f8bfec - "GenerateChapterThumbs" parent: d990061a-2326-48f5-a728-6799b724e654 overall progress: 85.7% (6/7)
+Jun 06, 2026 02:36:24.044 [130660850125624] DEBUG - Activity: updated activity d990061a-2326-48f5-a728-6799b724e654 - completed 85.7% - Butler tasks
+Jun 06, 2026 02:36:24.044 [130660850125624] DEBUG - Activity: ended sub-activity a723996e-230a-462f-829e-5a3a55f8bfec parent: d990061a-2326-48f5-a728-6799b724e654 overall progress: 100.0% (7/7)
+Jun 06, 2026 02:36:24.045 [130660850125624] DEBUG - Activity: updated activity d990061a-2326-48f5-a728-6799b724e654 - completed 100.0% - Butler tasks
+Jun 06, 2026 02:36:24.045 [130660850125624] DEBUG - The butler generated chapter thumbnails for 0 files
+Jun 06, 2026 02:36:24.045 [130660850125624] DEBUG - Activity: registered new sub-activity 28e4536e-7e82-4251-8575-b110a95e0054 - "ButlerTaskGenerateIntroMarkers" parent: d990061a-2326-48f5-a728-6799b724e654 overall progress: 87.5% (7/8)
+Jun 06, 2026 02:36:24.045 [130660850125624] DEBUG - Activity: updated activity d990061a-2326-48f5-a728-6799b724e654 - completed 87.5% - Butler tasks
+Jun 06, 2026 02:36:24.045 [130660850125624] DEBUG - Activity: ended sub-activity 28e4536e-7e82-4251-8575-b110a95e0054 parent: d990061a-2326-48f5-a728-6799b724e654 overall progress: 100.0% (8/8)
+Jun 06, 2026 02:36:24.045 [130660850125624] DEBUG - Activity: updated activity d990061a-2326-48f5-a728-6799b724e654 - completed 100.0% - Butler tasks
+Jun 06, 2026 02:36:24.046 [130660850125624] DEBUG - Activity: registered new sub-activity 9ef2944a-cce3-4434-8642-39dbcf136487 - "DeepMediaAnalysis" parent: d990061a-2326-48f5-a728-6799b724e654 overall progress: 88.9% (8/9)
+Jun 06, 2026 02:36:24.046 [130660850125624] DEBUG - Activity: updated activity d990061a-2326-48f5-a728-6799b724e654 - completed 88.9% - Butler tasks
+Jun 06, 2026 02:36:24.046 [130660850125624] DEBUG - Activity: ended sub-activity 9ef2944a-cce3-4434-8642-39dbcf136487 parent: d990061a-2326-48f5-a728-6799b724e654 overall progress: 100.0% (9/9)
+Jun 06, 2026 02:36:24.046 [130660850125624] DEBUG - Activity: updated activity d990061a-2326-48f5-a728-6799b724e654 - completed 100.0% - Butler tasks
+Jun 06, 2026 02:36:24.046 [130660850125624] DEBUG - The butler performed deep analysis on 0 files
+Jun 06, 2026 02:36:24.547 [130660829031224] DEBUG - [HCl#1e] HTTP requesting GET https://plex.tv/api/v2/features?X-Plex-Token=
+Jun 06, 2026 02:36:24.865 [130660860705592] DEBUG - [HttpClient/HCl#1e] HTTP/1.1 (0.3s) 200 response from GET https://plex.tv/api/v2/features?X-Plex-Token=
+Jun 06, 2026 02:36:24.867 [130660829031224] DEBUG - [HCl#1f] HTTP requesting GET https://plex.tv/api/v2/server/users/features?filterFeatures[]=b83c8dc9-5a01-4b7a-a7c9-5870c8a6e21b&filterFeatures[]=926bc176-58ca-47da-b8e3-080ed14ea6ba&filterFeatures[]=ea791163-c28d-4b7c-af88-bcc9553b206d&filterFeatures[]=6ab6677b-ad9b-444f-9ca1-b8027d05b3e1&filterFeatures[]=56cd352b-0d47-436d-aced-f20db3508de5
+Jun 06, 2026 02:36:24.919 [130660860705592] DEBUG - [HttpClient/HCl#1f] HTTP/1.1 (0.1s) 401 response from GET https://plex.tv/api/v2/server/users/features?filterFeatures[]=b83c8dc9-5a01-4b7a-a7c9-5870c8a6e21b&filterFeatures[]=926bc176-58ca-47da-b8e3-080ed14ea6ba&filterFeatures[]=ea791163-c28d-4b7c-af88-bcc9553b206d&filterFeatures[]=6ab6677b-ad9b-444f-9ca1-b8027d05b3e1&filterFeatures[]=56cd352b-0d47-436d-aced-f20db3508de5 (reused)
+Jun 06, 2026 02:36:24.919 [130660841687864] ERROR - MyPlex: Error 401 requesting JSON from: https://plex.tv/api/v2/server/users/features?filterFeatures[]=b83c8dc9-5a01-4b7a-a7c9-5870c8a6e21b&filterFeatures[]=926bc176-58ca-47da-b8e3-080ed14ea6ba&filterFeatures[]=ea791163-c28d-4b7c-af88-bcc9553b206d&filterFeatures[]=6ab6677b-ad9b-444f-9ca1-b8027d05b3e1&filterFeatures[]=56cd352b-0d47-436d-aced-f20db3508de5
+Jun 06, 2026 02:36:24.919 [130660829031224] WARN - FeatureManager: Couldn't get features. Trying again soon.
+Jun 06, 2026 02:36:25.950 [130660824812344] DEBUG - SSDP departed after not being seen for 29.564153 seconds: 192.168.1.81 (Bedroom TV)
+Jun 06, 2026 02:36:25.950 [130660824812344] DEBUG - SSDP departed after not being seen for 31.047393 seconds: 192.168.1.126 (BELLES-PC: belles:)
+Jun 06, 2026 02:36:26.371 [130660843797304] DEBUG - [NSB/SSDP] Parsing SSDP schema for http://192.168.1.81:8008/ssdp/device-desc.xml
+Jun 06, 2026 02:36:26.378 [130660860705592] DEBUG - [HttpClient/HCl#20] HTTP/1.1 (0.0s) 200 response from GET http://192.168.1.81:8008/ssdp/device-desc.xml (reused)
+Jun 06, 2026 02:36:26.379 [130660843797304] DEBUG - [NSB/SSDP] found 1 SSDP devices via http://192.168.1.81:8008/ssdp/device-desc.xml
+Jun 06, 2026 02:36:26.379 [130660843797304] DEBUG - [NSB/SSDP] SSDP arrived: 192.168.1.81 (Bedroom TV)
+Jun 06, 2026 02:36:26.713 [130660843797304] DEBUG - [NSB/SSDP] Parsing SSDP schema for http://192.168.1.126:2869/upnphost/udhisapi.dll?content=uuid:4d99ba9e-f617-4794-bb20-09aee8b97d57
+Jun 06, 2026 02:36:26.715 [130660860705592] DEBUG - [HttpClient/HCl#21] HTTP/1.1 (0.0s) 200 response from GET http://192.168.1.126:2869/upnphost/udhisapi.dll?content=uuid:4d99ba9e-f617-4794-bb20-09aee8b97d57 (reused)
+Jun 06, 2026 02:36:26.717 [130660843797304] DEBUG - [NSB/SSDP] found 1 SSDP devices via http://192.168.1.126:2869/upnphost/udhisapi.dll?content=uuid:4d99ba9e-f617-4794-bb20-09aee8b97d57
+Jun 06, 2026 02:36:26.717 [130660843797304] DEBUG - [NSB/SSDP] SSDP arrived: 192.168.1.126 (BELLES-PC: belles:)
+Jun 06, 2026 02:36:55.952 [130660822702904] DEBUG - SSDP departed after not being seen for 29.573290 seconds: 192.168.1.81 (Bedroom TV)
+Jun 06, 2026 02:36:55.952 [130660822702904] DEBUG - SSDP departed after not being seen for 29.235653 seconds: 192.168.1.126 (BELLES-PC: belles:)
+Jun 06, 2026 02:36:56.371 [130660843797304] DEBUG - [NSB/SSDP] Parsing SSDP schema for http://192.168.1.81:8008/ssdp/device-desc.xml
+Jun 06, 2026 02:36:56.383 [130660860705592] DEBUG - [HttpClient/HCl#22] HTTP/1.1 (0.0s) 200 response from GET http://192.168.1.81:8008/ssdp/device-desc.xml (reused)
+Jun 06, 2026 02:36:56.384 [130660843797304] DEBUG - [NSB/SSDP] found 1 SSDP devices via http://192.168.1.81:8008/ssdp/device-desc.xml
+Jun 06, 2026 02:36:56.384 [130660843797304] DEBUG - [NSB/SSDP] SSDP arrived: 192.168.1.81 (Bedroom TV)
+Jun 06, 2026 02:36:56.695 [130660843797304] DEBUG - [NSB/SSDP] Parsing SSDP schema for http://192.168.1.126:2869/upnphost/udhisapi.dll?content=uuid:4d99ba9e-f617-4794-bb20-09aee8b97d57
+Jun 06, 2026 02:36:56.698 [130660860705592] DEBUG - [HttpClient/HCl#23] HTTP/1.1 (0.0s) 200 response from GET http://192.168.1.126:2869/upnphost/udhisapi.dll?content=uuid:4d99ba9e-f617-4794-bb20-09aee8b97d57 (reused)
+Jun 06, 2026 02:36:56.699 [130660843797304] DEBUG - [NSB/SSDP] found 1 SSDP devices via http://192.168.1.126:2869/upnphost/udhisapi.dll?content=uuid:4d99ba9e-f617-4794-bb20-09aee8b97d57
+Jun 06, 2026 02:36:56.699 [130660843797304] DEBUG - [NSB/SSDP] SSDP arrived: 192.168.1.126 (BELLES-PC: belles:)
+Jun 06, 2026 02:37:55.954 [130660822702904] DEBUG - SSDP departed after not being seen for 31.211085 seconds: 192.168.1.126 (BELLES-PC: belles:)
+Jun 06, 2026 02:37:57.784 [130660843797304] DEBUG - [NSB/SSDP] Parsing SSDP schema for http://192.168.1.126:2869/upnphost/udhisapi.dll?content=uuid:4d99ba9e-f617-4794-bb20-09aee8b97d57
+Jun 06, 2026 02:37:57.788 [130660860705592] DEBUG - [HttpClient/HCl#24] HTTP/1.1 (0.0s) 200 response from GET http://192.168.1.126:2869/upnphost/udhisapi.dll?content=uuid:4d99ba9e-f617-4794-bb20-09aee8b97d57 (reused)
+Jun 06, 2026 02:37:57.789 [130660843797304] DEBUG - [NSB/SSDP] found 1 SSDP devices via http://192.168.1.126:2869/upnphost/udhisapi.dll?content=uuid:4d99ba9e-f617-4794-bb20-09aee8b97d57
+Jun 06, 2026 02:37:57.789 [130660843797304] DEBUG - [NSB/SSDP] SSDP arrived: 192.168.1.126 (BELLES-PC: belles:)
+Jun 06, 2026 02:38:25.955 [130660822702904] DEBUG - SSDP departed after not being seen for 31.995414 seconds: 192.168.1.81 (Bedroom TV)
+Jun 06, 2026 02:38:26.371 [130660843797304] DEBUG - [NSB/SSDP] Parsing SSDP schema for http://192.168.1.81:8008/ssdp/device-desc.xml
+Jun 06, 2026 02:38:26.379 [130660860705592] DEBUG - [HttpClient/HCl#25] HTTP/1.1 (0.0s) 200 response from GET http://192.168.1.81:8008/ssdp/device-desc.xml (reused)
+Jun 06, 2026 02:38:26.380 [130660843797304] DEBUG - [NSB/SSDP] found 1 SSDP devices via http://192.168.1.81:8008/ssdp/device-desc.xml
+Jun 06, 2026 02:38:26.380 [130660843797304] DEBUG - [NSB/SSDP] SSDP arrived: 192.168.1.81 (Bedroom TV)
+Jun 06, 2026 02:38:55.956 [130660829031224] DEBUG - SSDP departed after not being seen for 31.631153 seconds: 192.168.1.126 (BELLES-PC: belles:)
+Jun 06, 2026 02:38:58.252 [130660843797304] DEBUG - [NSB/SSDP] Parsing SSDP schema for http://192.168.1.126:2869/upnphost/udhisapi.dll?content=uuid:4d99ba9e-f617-4794-bb20-09aee8b97d57
+Jun 06, 2026 02:38:58.256 [130660860705592] DEBUG - [HttpClient/HCl#26] HTTP/1.1 (0.0s) 200 response from GET http://192.168.1.126:2869/upnphost/udhisapi.dll?content=uuid:4d99ba9e-f617-4794-bb20-09aee8b97d57 (reused)
+Jun 06, 2026 02:38:58.257 [130660843797304] DEBUG - [NSB/SSDP] found 1 SSDP devices via http://192.168.1.126:2869/upnphost/udhisapi.dll?content=uuid:4d99ba9e-f617-4794-bb20-09aee8b97d57
+Jun 06, 2026 02:38:58.257 [130660843797304] DEBUG - [NSB/SSDP] SSDP arrived: 192.168.1.126 (BELLES-PC: belles:)
+Jun 06, 2026 02:39:55.958 [130660824812344] DEBUG - SSDP departed after not being seen for 31.578916 seconds: 192.168.1.126 (BELLES-PC: belles:)
+Jun 06, 2026 02:39:56.390 [130660843797304] DEBUG - [NSB/SSDP] Parsing SSDP schema for http://192.168.1.126:2869/upnphost/udhisapi.dll?content=uuid:4d99ba9e-f617-4794-bb20-09aee8b97d57
+Jun 06, 2026 02:39:56.393 [130660860705592] DEBUG - [HttpClient/HCl#27] HTTP/1.1 (0.0s) 200 response from GET http://192.168.1.126:2869/upnphost/udhisapi.dll?content=uuid:4d99ba9e-f617-4794-bb20-09aee8b97d57 (reused)
+Jun 06, 2026 02:39:56.395 [130660843797304] DEBUG - [NSB/SSDP] found 1 SSDP devices via http://192.168.1.126:2869/upnphost/udhisapi.dll?content=uuid:4d99ba9e-f617-4794-bb20-09aee8b97d57
+Jun 06, 2026 02:39:56.395 [130660843797304] DEBUG - [NSB/SSDP] SSDP arrived: 192.168.1.126 (BELLES-PC: belles:)
+Jun 06, 2026 02:40:25.959 [130660824812344] DEBUG - SSDP departed after not being seen for 29.564483 seconds: 192.168.1.126 (BELLES-PC: belles:)
+Jun 06, 2026 02:40:27.319 [130660843797304] DEBUG - [NSB/SSDP] Parsing SSDP schema for http://192.168.1.126:2869/upnphost/udhisapi.dll?content=uuid:4d99ba9e-f617-4794-bb20-09aee8b97d57
+Jun 06, 2026 02:40:27.321 [130660860705592] DEBUG - [HttpClient/HCl#28] HTTP/1.1 (0.0s) 200 response from GET http://192.168.1.126:2869/upnphost/udhisapi.dll?content=uuid:4d99ba9e-f617-4794-bb20-09aee8b97d57 (reused)
+Jun 06, 2026 02:40:27.323 [130660843797304] DEBUG - [NSB/SSDP] found 1 SSDP devices via http://192.168.1.126:2869/upnphost/udhisapi.dll?content=uuid:4d99ba9e-f617-4794-bb20-09aee8b97d57
+Jun 06, 2026 02:40:27.323 [130660843797304] DEBUG - [NSB/SSDP] SSDP arrived: 192.168.1.126 (BELLES-PC: belles:)
+Jun 06, 2026 02:40:55.960 [130660822702904] DEBUG - SSDP departed after not being seen for 28.637990 seconds: 192.168.1.126 (BELLES-PC: belles:)
+Jun 06, 2026 02:40:56.683 [130660843797304] DEBUG - [NSB/SSDP] Parsing SSDP schema for http://192.168.1.126:2869/upnphost/udhisapi.dll?content=uuid:4d99ba9e-f617-4794-bb20-09aee8b97d57
+Jun 06, 2026 02:40:56.687 [130660860705592] DEBUG - [HttpClient/HCl#29] HTTP/1.1 (0.0s) 200 response from GET http://192.168.1.126:2869/upnphost/udhisapi.dll?content=uuid:4d99ba9e-f617-4794-bb20-09aee8b97d57 (reused)
+Jun 06, 2026 02:40:56.689 [130660843797304] DEBUG - [NSB/SSDP] found 1 SSDP devices via http://192.168.1.126:2869/upnphost/udhisapi.dll?content=uuid:4d99ba9e-f617-4794-bb20-09aee8b97d57
+Jun 06, 2026 02:40:56.689 [130660843797304] DEBUG - [NSB/SSDP] SSDP arrived: 192.168.1.126 (BELLES-PC: belles:)
+Jun 06, 2026 02:41:24.921 [130660824812344] DEBUG - [HCl#2a] HTTP requesting GET https://plex.tv/api/v2/features?X-Plex-Token=
+Jun 06, 2026 02:41:25.211 [130660860705592] DEBUG - [HttpClient/HCl#2a] HTTP/1.1 (0.3s) 200 response from GET https://plex.tv/api/v2/features?X-Plex-Token=
+Jun 06, 2026 02:41:25.213 [130660824812344] DEBUG - [HCl#2b] HTTP requesting GET https://plex.tv/api/v2/server/users/features?filterFeatures[]=b83c8dc9-5a01-4b7a-a7c9-5870c8a6e21b&filterFeatures[]=926bc176-58ca-47da-b8e3-080ed14ea6ba&filterFeatures[]=ea791163-c28d-4b7c-af88-bcc9553b206d&filterFeatures[]=6ab6677b-ad9b-444f-9ca1-b8027d05b3e1&filterFeatures[]=56cd352b-0d47-436d-aced-f20db3508de5
+Jun 06, 2026 02:41:25.265 [130660860705592] DEBUG - [HttpClient/HCl#2b] HTTP/1.1 (0.1s) 401 response from GET https://plex.tv/api/v2/server/users/features?filterFeatures[]=b83c8dc9-5a01-4b7a-a7c9-5870c8a6e21b&filterFeatures[]=926bc176-58ca-47da-b8e3-080ed14ea6ba&filterFeatures[]=ea791163-c28d-4b7c-af88-bcc9553b206d&filterFeatures[]=6ab6677b-ad9b-444f-9ca1-b8027d05b3e1&filterFeatures[]=56cd352b-0d47-436d-aced-f20db3508de5 (reused)
+Jun 06, 2026 02:41:25.266 [130660841687864] ERROR - MyPlex: Error 401 requesting JSON from: https://plex.tv/api/v2/server/users/features?filterFeatures[]=b83c8dc9-5a01-4b7a-a7c9-5870c8a6e21b&filterFeatures[]=926bc176-58ca-47da-b8e3-080ed14ea6ba&filterFeatures[]=ea791163-c28d-4b7c-af88-bcc9553b206d&filterFeatures[]=6ab6677b-ad9b-444f-9ca1-b8027d05b3e1&filterFeatures[]=56cd352b-0d47-436d-aced-f20db3508de5
+Jun 06, 2026 02:41:25.266 [130660824812344] WARN - FeatureManager: Couldn't get features. Trying again soon.
+Jun 06, 2026 02:41:25.962 [130660824812344] DEBUG - SSDP departed after not being seen for 29.273744 seconds: 192.168.1.126 (BELLES-PC: belles:)
+Jun 06, 2026 02:41:27.249 [130660843797304] DEBUG - [NSB/SSDP] Parsing SSDP schema for http://192.168.1.126:2869/upnphost/udhisapi.dll?content=uuid:4d99ba9e-f617-4794-bb20-09aee8b97d57
+Jun 06, 2026 02:41:27.253 [130660860705592] DEBUG - [HttpClient/HCl#2c] HTTP/1.1 (0.0s) 200 response from GET http://192.168.1.126:2869/upnphost/udhisapi.dll?content=uuid:4d99ba9e-f617-4794-bb20-09aee8b97d57 (reused)
+Jun 06, 2026 02:41:27.254 [130660843797304] DEBUG - [NSB/SSDP] found 1 SSDP devices via http://192.168.1.126:2869/upnphost/udhisapi.dll?content=uuid:4d99ba9e-f617-4794-bb20-09aee8b97d57
+Jun 06, 2026 02:41:27.254 [130660843797304] DEBUG - [NSB/SSDP] SSDP arrived: 192.168.1.126 (BELLES-PC: belles:)

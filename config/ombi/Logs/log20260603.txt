@@ -1,0 +1,75 @@
+2026-06-03 03:10:26.171 +00:00 [INF] Default Quartz.NET properties loaded from embedded resource file
+2026-06-03 03:10:26.680 +00:00 [INF] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2026-06-03 03:10:26.680 +00:00 [INF] Quartz Scheduler created
+2026-06-03 03:10:26.681 +00:00 [INF] RAMJobStore initialized.
+2026-06-03 03:10:26.698 +00:00 [INF] Quartz Scheduler 3.6.2.0 - 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED' initialized
+2026-06-03 03:10:26.699 +00:00 [INF] Using thread pool 'Quartz.Simpl.DefaultThreadPool', size: 10
+2026-06-03 03:10:26.699 +00:00 [INF] Using job store 'Quartz.Simpl.RAMJobStore', supports persistence: False, clustered: False
+2026-06-03 03:10:26.701 +00:00 [INF] JobFactory set to: Ombi.Schedule.IoCJobFactory
+2026-06-03 03:10:26.886 +00:00 [INF] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2026-06-03 03:18:16.975 +00:00 [INF] Default Quartz.NET properties loaded from embedded resource file
+2026-06-03 03:18:17.202 +00:00 [INF] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2026-06-03 03:18:17.217 +00:00 [INF] Quartz Scheduler created
+2026-06-03 03:18:17.222 +00:00 [INF] RAMJobStore initialized.
+2026-06-03 03:18:17.223 +00:00 [INF] Quartz Scheduler 3.6.2.0 - 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED' initialized
+2026-06-03 03:18:17.223 +00:00 [INF] Using thread pool 'Quartz.Simpl.DefaultThreadPool', size: 10
+2026-06-03 03:18:17.233 +00:00 [INF] Using job store 'Quartz.Simpl.RAMJobStore', supports persistence: False, clustered: False
+2026-06-03 03:18:17.235 +00:00 [INF] JobFactory set to: Ombi.Schedule.IoCJobFactory
+2026-06-03 03:18:17.389 +00:00 [INF] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2026-06-03 03:25:03.045 +00:00 [ERR] Failed executing DbCommand (20ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT OR IGNORE INTO __EFMigrationsHistory (MigrationId,ProductVersion)
+                VALUES('20191103205133_Inital', '2.2.6-servicing-10079');
+2026-06-03 03:33:32.641 +00:00 [INF] Default Quartz.NET properties loaded from embedded resource file
+2026-06-03 03:33:32.830 +00:00 [INF] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2026-06-03 03:33:32.849 +00:00 [INF] Quartz Scheduler created
+2026-06-03 03:33:32.853 +00:00 [INF] RAMJobStore initialized.
+2026-06-03 03:33:32.853 +00:00 [INF] Quartz Scheduler 3.6.2.0 - 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED' initialized
+2026-06-03 03:33:32.854 +00:00 [INF] Using thread pool 'Quartz.Simpl.DefaultThreadPool', size: 10
+2026-06-03 03:33:32.871 +00:00 [INF] Using job store 'Quartz.Simpl.RAMJobStore', supports persistence: False, clustered: False
+2026-06-03 03:33:32.880 +00:00 [INF] JobFactory set to: Ombi.Schedule.IoCJobFactory
+2026-06-03 03:33:33.070 +00:00 [INF] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2026-06-03 03:49:37.830 +00:00 [INF] Default Quartz.NET properties loaded from embedded resource file
+2026-06-03 03:49:37.967 +00:00 [INF] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2026-06-03 03:49:37.968 +00:00 [INF] Quartz Scheduler created
+2026-06-03 03:49:37.973 +00:00 [INF] RAMJobStore initialized.
+2026-06-03 03:49:37.974 +00:00 [INF] Quartz Scheduler 3.6.2.0 - 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED' initialized
+2026-06-03 03:49:37.974 +00:00 [INF] Using thread pool 'Quartz.Simpl.DefaultThreadPool', size: 10
+2026-06-03 03:49:37.975 +00:00 [INF] Using job store 'Quartz.Simpl.RAMJobStore', supports persistence: False, clustered: False
+2026-06-03 03:49:37.976 +00:00 [INF] JobFactory set to: Ombi.Schedule.IoCJobFactory
+2026-06-03 03:49:38.121 +00:00 [INF] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2026-06-03 03:53:49.733 +00:00 [INF] Default Quartz.NET properties loaded from embedded resource file
+2026-06-03 03:53:50.141 +00:00 [INF] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2026-06-03 03:53:50.142 +00:00 [INF] Quartz Scheduler created
+2026-06-03 03:53:50.148 +00:00 [INF] RAMJobStore initialized.
+2026-06-03 03:53:50.149 +00:00 [INF] Quartz Scheduler 3.6.2.0 - 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED' initialized
+2026-06-03 03:53:50.149 +00:00 [INF] Using thread pool 'Quartz.Simpl.DefaultThreadPool', size: 10
+2026-06-03 03:53:50.150 +00:00 [INF] Using job store 'Quartz.Simpl.RAMJobStore', supports persistence: False, clustered: False
+2026-06-03 03:53:50.154 +00:00 [INF] JobFactory set to: Ombi.Schedule.IoCJobFactory
+2026-06-03 03:53:50.417 +00:00 [INF] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2026-06-03 04:01:49.259 +00:00 [INF] Default Quartz.NET properties loaded from embedded resource file
+2026-06-03 04:01:49.591 +00:00 [INF] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2026-06-03 04:01:49.591 +00:00 [INF] Quartz Scheduler created
+2026-06-03 04:01:49.595 +00:00 [INF] RAMJobStore initialized.
+2026-06-03 04:01:49.596 +00:00 [INF] Quartz Scheduler 3.6.2.0 - 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED' initialized
+2026-06-03 04:01:49.597 +00:00 [INF] Using thread pool 'Quartz.Simpl.DefaultThreadPool', size: 10
+2026-06-03 04:01:49.599 +00:00 [INF] Using job store 'Quartz.Simpl.RAMJobStore', supports persistence: False, clustered: False
+2026-06-03 04:01:49.606 +00:00 [INF] JobFactory set to: Ombi.Schedule.IoCJobFactory
+2026-06-03 04:01:50.102 +00:00 [INF] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2026-06-03 04:17:50.591 +00:00 [INF] Default Quartz.NET properties loaded from embedded resource file
+2026-06-03 04:17:51.424 +00:00 [INF] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2026-06-03 04:17:51.424 +00:00 [INF] Quartz Scheduler created
+2026-06-03 04:17:51.428 +00:00 [INF] RAMJobStore initialized.
+2026-06-03 04:17:51.429 +00:00 [INF] Quartz Scheduler 3.6.2.0 - 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED' initialized
+2026-06-03 04:17:51.429 +00:00 [INF] Using thread pool 'Quartz.Simpl.DefaultThreadPool', size: 10
+2026-06-03 04:17:51.429 +00:00 [INF] Using job store 'Quartz.Simpl.RAMJobStore', supports persistence: False, clustered: False
+2026-06-03 04:17:51.431 +00:00 [INF] JobFactory set to: Ombi.Schedule.IoCJobFactory
+2026-06-03 04:17:51.535 +00:00 [INF] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2026-06-03 04:27:06.478 +00:00 [INF] Default Quartz.NET properties loaded from embedded resource file
+2026-06-03 04:27:07.238 +00:00 [INF] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2026-06-03 04:27:07.239 +00:00 [INF] Quartz Scheduler created
+2026-06-03 04:27:07.257 +00:00 [INF] RAMJobStore initialized.
+2026-06-03 04:27:07.262 +00:00 [INF] Quartz Scheduler 3.6.2.0 - 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED' initialized
+2026-06-03 04:27:07.262 +00:00 [INF] Using thread pool 'Quartz.Simpl.DefaultThreadPool', size: 10
+2026-06-03 04:27:07.276 +00:00 [INF] Using job store 'Quartz.Simpl.RAMJobStore', supports persistence: False, clustered: False
+2026-06-03 04:27:07.288 +00:00 [INF] JobFactory set to: Ombi.Schedule.IoCJobFactory
+2026-06-03 04:27:07.537 +00:00 [INF] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.

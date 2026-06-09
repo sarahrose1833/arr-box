@@ -1,0 +1,58 @@
+title: Estrogen.qzz.io
+icon: https://www.drugs.com/images/pills/mmx/t109428f/estradiol-2-mg-b-887-2-79391.jpg
+services:
+  Watch:
+    - title: Jellyfin
+      description: Website for watching files on estrogen.qzz.io's main server
+      link: 'https://play.estrogen.qzz.io'
+      icon:
+        name: simple-icons:jellyfin
+        wrap: true
+        color: '#3dbcf3'
+    - title: Plex
+      description: Website to watch files on estrogen.qzz.io's main server. This service works best on TVs and Media Players
+      link: 'https://plex.estrogen.qzz.io'
+      icon:
+        name: simple-icons:plex
+        wrap: true
+        color: '#68bc71'
+
+  Request:
+    - title: Ombi
+      description: A website to request shows to be added to the server
+      link: 'https://ombi.estrogen.qzz.io'
+      icon:
+        link: 'https://ombi.io/img/logo-orange-small.png'
+        wrap: true
+    - title: Sonarr
+      description: TV and Anime management software
+      link: 'https://sonarr.estrogen.qzz.io'
+      icon:
+        name: simple-icons:sonarr
+        wrap: true
+    - title: Radarr
+      description: Movie Management Software
+      link: 'https://radarr.estrogen.qzz.io'
+      icon:
+        name: simple-icons:radarr
+        wrap: true
+    - title: Bazarr
+      description: Subtitle Management Software
+      link: 'https://bazarr.estrogen.qzz.io'
+      icon:
+        name: simple-icons:radarr
+        wrap: true
+
+  Maintenance:
+    - title: Router
+      description: Keenetic Peak
+      link: '#'
+      icon:
+        name: bi:router-fill
+        wrap: true
+    - title: NAS
+      description: Network storage
+      link: '#'
+      icon:
+        name: mdi:nas
+        wrap: true

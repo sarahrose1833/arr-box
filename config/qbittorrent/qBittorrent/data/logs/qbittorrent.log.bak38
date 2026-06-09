@@ -1,0 +1,1025 @@
+(I) 2026-06-05T22:34:07 - Distributed Hash Table (DHT) support: ON
+(I) 2026-06-05T22:34:07 - Local Peer Discovery support: ON
+(I) 2026-06-05T22:34:07 - Peer Exchange (PeX) support: ON
+(I) 2026-06-05T22:34:07 - Anonymous mode: OFF
+(I) 2026-06-05T22:34:07 - Encryption support: ON
+(I) 2026-06-05T22:34:07 - Successfully listening on IP. IP: "100.114.144.72". Port: "TCP/2517"
+(I) 2026-06-05T22:34:07 - Successfully listening on IP. IP: "100.114.144.72". Port: "UDP/2517"
+(I) 2026-06-05T22:34:07 - UPnP/NAT-PMP support: ON
+(I) 2026-06-05T22:34:07 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 01:42:47 2026.
+(N) 2026-06-05T22:34:07 - Using built-in Web UI.
+(N) 2026-06-05T22:34:07 - Web UI translation for selected locale (en) has been successfully loaded.
+(C) 2026-06-05T22:34:07 - Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available
+(N) 2026-06-05T22:34:07 - qBittorrent termination initiated
+(N) 2026-06-05T22:34:08 - qBittorrent is now ready to exit
+(N) 2026-06-05T22:35:12 - qBittorrent v4.6.0 started
+(N) 2026-06-05T22:35:12 - Using config directory: /config/qBittorrent/config
+(N) 2026-06-05T22:35:12 - Trying to listen on the following list of IP addresses: "100.114.144.72:2517"
+(I) 2026-06-05T22:35:12 - Peer ID: "-qB4600-"
+(I) 2026-06-05T22:35:12 - HTTP User-Agent: "qBittorrent/4.6.0"
+(I) 2026-06-05T22:35:12 - Distributed Hash Table (DHT) support: ON
+(I) 2026-06-05T22:35:12 - Local Peer Discovery support: ON
+(I) 2026-06-05T22:35:12 - Peer Exchange (PeX) support: ON
+(I) 2026-06-05T22:35:12 - Anonymous mode: OFF
+(I) 2026-06-05T22:35:12 - Encryption support: ON
+(I) 2026-06-05T22:35:12 - Successfully listening on IP. IP: "100.114.144.72". Port: "TCP/2517"
+(I) 2026-06-05T22:35:12 - Successfully listening on IP. IP: "100.114.144.72". Port: "UDP/2517"
+(I) 2026-06-05T22:35:12 - UPnP/NAT-PMP support: ON
+(I) 2026-06-05T22:35:12 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 01:42:47 2026.
+(N) 2026-06-05T22:35:12 - Using built-in Web UI.
+(N) 2026-06-05T22:35:12 - Web UI translation for selected locale (en) has been successfully loaded.
+(C) 2026-06-05T22:35:12 - Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available
+"Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available"
+(N) 2026-06-05T22:35:12 - qBittorrent termination initiated
+(N) 2026-06-05T22:35:13 - qBittorrent is now ready to exit
+WebUI will be started shortly after internal preparations. Please wait...
+
+******** Information ********
+To control qBittorrent, access the WebUI at: http://localhost:8080
+
+(N) 2026-06-05T22:36:18 - qBittorrent v4.6.0 started
+(N) 2026-06-05T22:36:18 - Using config directory: /config/qBittorrent/config
+(N) 2026-06-05T22:36:18 - Trying to listen on the following list of IP addresses: "100.114.144.72:2517"
+(I) 2026-06-05T22:36:18 - Peer ID: "-qB4600-"
+(I) 2026-06-05T22:36:18 - HTTP User-Agent: "qBittorrent/4.6.0"
+(I) 2026-06-05T22:36:18 - Distributed Hash Table (DHT) support: ON
+(I) 2026-06-05T22:36:18 - Local Peer Discovery support: ON
+(I) 2026-06-05T22:36:18 - Peer Exchange (PeX) support: ON
+(I) 2026-06-05T22:36:18 - Anonymous mode: OFF
+(I) 2026-06-05T22:36:18 - Encryption support: ON
+(I) 2026-06-05T22:36:18 - System network status changed to ONLINE
+(I) 2026-06-05T22:36:18 - UPnP/NAT-PMP support: ON
+(I) 2026-06-05T22:36:18 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 01:42:47 2026.
+(N) 2026-06-05T22:36:18 - Using built-in Web UI.
+(N) 2026-06-05T22:36:18 - Web UI translation for selected locale (en) has been successfully loaded.
+(C) 2026-06-05T22:36:18 - Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available
+"Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available"
+(N) 2026-06-05T22:36:18 - qBittorrent termination initiated
+(N) 2026-06-05T22:36:18 - qBittorrent is now ready to exit
+WebUI will be started shortly after internal preparations. Please wait...
+
+******** Information ********
+To control qBittorrent, access the WebUI at: http://localhost:8080
+
+(N) 2026-06-05T22:37:23 - qBittorrent v4.6.0 started
+(N) 2026-06-05T22:37:23 - Using config directory: /config/qBittorrent/config
+(N) 2026-06-05T22:37:23 - Trying to listen on the following list of IP addresses: "100.114.144.72:2517"
+(I) 2026-06-05T22:37:23 - Peer ID: "-qB4600-"
+(I) 2026-06-05T22:37:23 - HTTP User-Agent: "qBittorrent/4.6.0"
+(I) 2026-06-05T22:37:23 - Distributed Hash Table (DHT) support: ON
+(I) 2026-06-05T22:37:23 - Local Peer Discovery support: ON
+(I) 2026-06-05T22:37:23 - Peer Exchange (PeX) support: ON
+(I) 2026-06-05T22:37:23 - Anonymous mode: OFF
+(I) 2026-06-05T22:37:23 - Encryption support: ON
+(I) 2026-06-05T22:37:23 - Successfully listening on IP. IP: "100.114.144.72". Port: "TCP/2517"
+(I) 2026-06-05T22:37:23 - Successfully listening on IP. IP: "100.114.144.72". Port: "UDP/2517"
+(I) 2026-06-05T22:37:23 - UPnP/NAT-PMP support: ON
+(I) 2026-06-05T22:37:23 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 01:42:47 2026.
+(N) 2026-06-05T22:37:23 - Using built-in Web UI.
+(N) 2026-06-05T22:37:23 - Web UI translation for selected locale (en) has been successfully loaded.
+(C) 2026-06-05T22:37:23 - Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available
+"Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available"
+(N) 2026-06-05T22:37:23 - qBittorrent termination initiated
+(N) 2026-06-05T22:37:23 - qBittorrent is now ready to exit
+WebUI will be started shortly after internal preparations. Please wait...
+
+******** Information ********
+To control qBittorrent, access the WebUI at: http://localhost:8080
+
+(N) 2026-06-05T22:38:28 - qBittorrent v4.6.0 started
+(N) 2026-06-05T22:38:28 - Using config directory: /config/qBittorrent/config
+(N) 2026-06-05T22:38:28 - Trying to listen on the following list of IP addresses: "100.114.144.72:2517"
+(I) 2026-06-05T22:38:28 - Peer ID: "-qB4600-"
+(I) 2026-06-05T22:38:28 - HTTP User-Agent: "qBittorrent/4.6.0"
+(I) 2026-06-05T22:38:28 - Distributed Hash Table (DHT) support: ON
+(I) 2026-06-05T22:38:28 - Local Peer Discovery support: ON
+(I) 2026-06-05T22:38:28 - Peer Exchange (PeX) support: ON
+(I) 2026-06-05T22:38:28 - Anonymous mode: OFF
+(I) 2026-06-05T22:38:28 - Encryption support: ON
+(I) 2026-06-05T22:38:28 - Successfully listening on IP. IP: "100.114.144.72". Port: "TCP/2517"
+(I) 2026-06-05T22:38:28 - Successfully listening on IP. IP: "100.114.144.72". Port: "UDP/2517"
+(I) 2026-06-05T22:38:28 - UPnP/NAT-PMP support: ON
+(I) 2026-06-05T22:38:28 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 01:42:47 2026.
+(N) 2026-06-05T22:38:28 - Using built-in Web UI.
+(N) 2026-06-05T22:38:28 - Web UI translation for selected locale (en) has been successfully loaded.
+(C) 2026-06-05T22:38:28 - Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available
+"Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available"
+(N) 2026-06-05T22:38:28 - qBittorrent termination initiated
+(N) 2026-06-05T22:38:29 - qBittorrent is now ready to exit
+WebUI will be started shortly after internal preparations. Please wait...
+
+******** Information ********
+To control qBittorrent, access the WebUI at: http://localhost:8080
+
+(N) 2026-06-05T22:39:34 - qBittorrent v4.6.0 started
+(N) 2026-06-05T22:39:34 - Using config directory: /config/qBittorrent/config
+(N) 2026-06-05T22:39:34 - Trying to listen on the following list of IP addresses: "100.114.144.72:2517"
+(I) 2026-06-05T22:39:34 - Peer ID: "-qB4600-"
+(I) 2026-06-05T22:39:34 - HTTP User-Agent: "qBittorrent/4.6.0"
+(I) 2026-06-05T22:39:34 - Distributed Hash Table (DHT) support: ON
+(I) 2026-06-05T22:39:34 - Local Peer Discovery support: ON
+(I) 2026-06-05T22:39:34 - Peer Exchange (PeX) support: ON
+(I) 2026-06-05T22:39:34 - Anonymous mode: OFF
+(I) 2026-06-05T22:39:34 - Encryption support: ON
+(I) 2026-06-05T22:39:34 - Successfully listening on IP. IP: "100.114.144.72". Port: "TCP/2517"
+(I) 2026-06-05T22:39:34 - Successfully listening on IP. IP: "100.114.144.72". Port: "UDP/2517"
+(I) 2026-06-05T22:39:34 - UPnP/NAT-PMP support: ON
+(I) 2026-06-05T22:39:34 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 01:42:47 2026.
+(N) 2026-06-05T22:39:34 - Using built-in Web UI.
+(N) 2026-06-05T22:39:34 - Web UI translation for selected locale (en) has been successfully loaded.
+(C) 2026-06-05T22:39:34 - Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available
+"Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available"
+(N) 2026-06-05T22:39:34 - qBittorrent termination initiated
+(N) 2026-06-05T22:39:34 - qBittorrent is now ready to exit
+WebUI will be started shortly after internal preparations. Please wait...
+
+******** Information ********
+To control qBittorrent, access the WebUI at: http://localhost:8080
+
+(N) 2026-06-05T22:40:39 - qBittorrent v4.6.0 started
+(N) 2026-06-05T22:40:39 - Using config directory: /config/qBittorrent/config
+(N) 2026-06-05T22:40:39 - Trying to listen on the following list of IP addresses: "100.114.144.72:2517"
+(I) 2026-06-05T22:40:39 - Peer ID: "-qB4600-"
+(I) 2026-06-05T22:40:39 - HTTP User-Agent: "qBittorrent/4.6.0"
+(I) 2026-06-05T22:40:39 - Distributed Hash Table (DHT) support: ON
+(I) 2026-06-05T22:40:39 - Local Peer Discovery support: ON
+(I) 2026-06-05T22:40:39 - Peer Exchange (PeX) support: ON
+(I) 2026-06-05T22:40:39 - Anonymous mode: OFF
+(I) 2026-06-05T22:40:39 - Encryption support: ON
+(I) 2026-06-05T22:40:39 - Successfully listening on IP. IP: "100.114.144.72". Port: "TCP/2517"
+(I) 2026-06-05T22:40:39 - Successfully listening on IP. IP: "100.114.144.72". Port: "UDP/2517"
+(I) 2026-06-05T22:40:39 - UPnP/NAT-PMP support: ON
+(I) 2026-06-05T22:40:39 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 01:42:47 2026.
+(N) 2026-06-05T22:40:39 - Using built-in Web UI.
+(N) 2026-06-05T22:40:39 - Web UI translation for selected locale (en) has been successfully loaded.
+(C) 2026-06-05T22:40:39 - Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available
+"Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available"
+(N) 2026-06-05T22:40:39 - qBittorrent termination initiated
+(N) 2026-06-05T22:40:40 - qBittorrent is now ready to exit
+WebUI will be started shortly after internal preparations. Please wait...
+
+******** Information ********
+To control qBittorrent, access the WebUI at: http://localhost:8080
+
+(N) 2026-06-05T22:41:44 - qBittorrent v4.6.0 started
+(N) 2026-06-05T22:41:44 - Using config directory: /config/qBittorrent/config
+(N) 2026-06-05T22:41:44 - Trying to listen on the following list of IP addresses: "100.114.144.72:2517"
+(I) 2026-06-05T22:41:44 - Peer ID: "-qB4600-"
+(I) 2026-06-05T22:41:44 - HTTP User-Agent: "qBittorrent/4.6.0"
+(I) 2026-06-05T22:41:44 - Distributed Hash Table (DHT) support: ON
+(I) 2026-06-05T22:41:44 - Local Peer Discovery support: ON
+(I) 2026-06-05T22:41:44 - Peer Exchange (PeX) support: ON
+(I) 2026-06-05T22:41:44 - Anonymous mode: OFF
+(I) 2026-06-05T22:41:44 - Encryption support: ON
+(I) 2026-06-05T22:41:44 - Successfully listening on IP. IP: "100.114.144.72". Port: "TCP/2517"
+(I) 2026-06-05T22:41:44 - Successfully listening on IP. IP: "100.114.144.72". Port: "UDP/2517"
+(I) 2026-06-05T22:41:44 - UPnP/NAT-PMP support: ON
+(I) 2026-06-05T22:41:45 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 01:42:47 2026.
+(N) 2026-06-05T22:41:45 - Using built-in Web UI.
+(N) 2026-06-05T22:41:45 - Web UI translation for selected locale (en) has been successfully loaded.
+(C) 2026-06-05T22:41:45 - Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available
+"Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available"
+(N) 2026-06-05T22:41:45 - qBittorrent termination initiated
+(N) 2026-06-05T22:41:45 - qBittorrent is now ready to exit
+WebUI will be started shortly after internal preparations. Please wait...
+
+******** Information ********
+To control qBittorrent, access the WebUI at: http://localhost:8080
+
+(N) 2026-06-05T22:42:50 - qBittorrent v4.6.0 started
+(N) 2026-06-05T22:42:50 - Using config directory: /config/qBittorrent/config
+(N) 2026-06-05T22:42:50 - Trying to listen on the following list of IP addresses: "100.114.144.72:2517"
+(I) 2026-06-05T22:42:50 - Peer ID: "-qB4600-"
+(I) 2026-06-05T22:42:50 - HTTP User-Agent: "qBittorrent/4.6.0"
+(I) 2026-06-05T22:42:50 - Distributed Hash Table (DHT) support: ON
+(I) 2026-06-05T22:42:50 - Local Peer Discovery support: ON
+(I) 2026-06-05T22:42:50 - Peer Exchange (PeX) support: ON
+(I) 2026-06-05T22:42:50 - Anonymous mode: OFF
+(I) 2026-06-05T22:42:50 - Encryption support: ON
+(I) 2026-06-05T22:42:50 - Successfully listening on IP. IP: "100.114.144.72". Port: "TCP/2517"
+(I) 2026-06-05T22:42:50 - Successfully listening on IP. IP: "100.114.144.72". Port: "UDP/2517"
+(I) 2026-06-05T22:42:50 - UPnP/NAT-PMP support: ON
+(I) 2026-06-05T22:42:50 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 01:42:47 2026.
+(N) 2026-06-05T22:42:50 - Using built-in Web UI.
+(N) 2026-06-05T22:42:50 - Web UI translation for selected locale (en) has been successfully loaded.
+(C) 2026-06-05T22:42:50 - Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available
+"Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available"
+(N) 2026-06-05T22:42:50 - qBittorrent termination initiated
+(N) 2026-06-05T22:42:50 - qBittorrent is now ready to exit
+WebUI will be started shortly after internal preparations. Please wait...
+
+******** Information ********
+To control qBittorrent, access the WebUI at: http://localhost:8080
+
+(N) 2026-06-05T22:43:55 - qBittorrent v4.6.0 started
+(N) 2026-06-05T22:43:55 - Using config directory: /config/qBittorrent/config
+(N) 2026-06-05T22:43:55 - Trying to listen on the following list of IP addresses: "100.114.144.72:2517"
+(I) 2026-06-05T22:43:55 - Peer ID: "-qB4600-"
+(I) 2026-06-05T22:43:55 - HTTP User-Agent: "qBittorrent/4.6.0"
+(I) 2026-06-05T22:43:55 - Distributed Hash Table (DHT) support: ON
+(I) 2026-06-05T22:43:55 - Local Peer Discovery support: ON
+(I) 2026-06-05T22:43:55 - Peer Exchange (PeX) support: ON
+(I) 2026-06-05T22:43:55 - Anonymous mode: OFF
+(I) 2026-06-05T22:43:55 - Encryption support: ON
+(I) 2026-06-05T22:43:55 - System network status changed to ONLINE
+(I) 2026-06-05T22:43:55 - Successfully listening on IP. IP: "100.114.144.72". Port: "TCP/2517"
+(I) 2026-06-05T22:43:55 - Successfully listening on IP. IP: "100.114.144.72". Port: "UDP/2517"
+(I) 2026-06-05T22:43:55 - UPnP/NAT-PMP support: ON
+(I) 2026-06-05T22:43:55 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 01:42:47 2026.
+(N) 2026-06-05T22:43:55 - Using built-in Web UI.
+(N) 2026-06-05T22:43:55 - Web UI translation for selected locale (en) has been successfully loaded.
+(C) 2026-06-05T22:43:55 - Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available
+"Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available"
+(N) 2026-06-05T22:43:55 - qBittorrent termination initiated
+(N) 2026-06-05T22:43:56 - qBittorrent is now ready to exit
+WebUI will be started shortly after internal preparations. Please wait...
+
+******** Information ********
+To control qBittorrent, access the WebUI at: http://localhost:8080
+
+(N) 2026-06-05T22:45:00 - qBittorrent v4.6.0 started
+(N) 2026-06-05T22:45:00 - Using config directory: /config/qBittorrent/config
+(N) 2026-06-05T22:45:00 - Trying to listen on the following list of IP addresses: "100.114.144.72:2517"
+(I) 2026-06-05T22:45:00 - Peer ID: "-qB4600-"
+(I) 2026-06-05T22:45:00 - HTTP User-Agent: "qBittorrent/4.6.0"
+(I) 2026-06-05T22:45:00 - Distributed Hash Table (DHT) support: ON
+(I) 2026-06-05T22:45:00 - Local Peer Discovery support: ON
+(I) 2026-06-05T22:45:00 - Peer Exchange (PeX) support: ON
+(I) 2026-06-05T22:45:00 - Anonymous mode: OFF
+(I) 2026-06-05T22:45:00 - Encryption support: ON
+(I) 2026-06-05T22:45:00 - Successfully listening on IP. IP: "100.114.144.72". Port: "TCP/2517"
+(I) 2026-06-05T22:45:00 - Successfully listening on IP. IP: "100.114.144.72". Port: "UDP/2517"
+(I) 2026-06-05T22:45:00 - UPnP/NAT-PMP support: ON
+(I) 2026-06-05T22:45:00 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 01:42:47 2026.
+(N) 2026-06-05T22:45:00 - Using built-in Web UI.
+(N) 2026-06-05T22:45:00 - Web UI translation for selected locale (en) has been successfully loaded.
+(C) 2026-06-05T22:45:00 - Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available
+"Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available"
+(N) 2026-06-05T22:45:00 - qBittorrent termination initiated
+(N) 2026-06-05T22:45:01 - qBittorrent is now ready to exit
+WebUI will be started shortly after internal preparations. Please wait...
+
+******** Information ********
+To control qBittorrent, access the WebUI at: http://localhost:8080
+
+(N) 2026-06-05T22:46:05 - qBittorrent v4.6.0 started
+(N) 2026-06-05T22:46:05 - Using config directory: /config/qBittorrent/config
+(N) 2026-06-05T22:46:06 - Trying to listen on the following list of IP addresses: "100.114.144.72:2517"
+(I) 2026-06-05T22:46:06 - Peer ID: "-qB4600-"
+(I) 2026-06-05T22:46:06 - HTTP User-Agent: "qBittorrent/4.6.0"
+(I) 2026-06-05T22:46:06 - Distributed Hash Table (DHT) support: ON
+(I) 2026-06-05T22:46:06 - Local Peer Discovery support: ON
+(I) 2026-06-05T22:46:06 - Peer Exchange (PeX) support: ON
+(I) 2026-06-05T22:46:06 - Anonymous mode: OFF
+(I) 2026-06-05T22:46:06 - Encryption support: ON
+(I) 2026-06-05T22:46:06 - Successfully listening on IP. IP: "100.114.144.72". Port: "TCP/2517"
+(I) 2026-06-05T22:46:06 - Successfully listening on IP. IP: "100.114.144.72". Port: "UDP/2517"
+(I) 2026-06-05T22:46:06 - UPnP/NAT-PMP support: ON
+(I) 2026-06-05T22:46:06 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 01:42:47 2026.
+(N) 2026-06-05T22:46:06 - Using built-in Web UI.
+(N) 2026-06-05T22:46:06 - Web UI translation for selected locale (en) has been successfully loaded.
+(C) 2026-06-05T22:46:06 - Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available
+"Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available"
+(N) 2026-06-05T22:46:06 - qBittorrent termination initiated
+(N) 2026-06-05T22:46:06 - qBittorrent is now ready to exit
+WebUI will be started shortly after internal preparations. Please wait...
+
+******** Information ********
+To control qBittorrent, access the WebUI at: http://localhost:8080
+
+(N) 2026-06-05T22:47:11 - qBittorrent v4.6.0 started
+(N) 2026-06-05T22:47:11 - Using config directory: /config/qBittorrent/config
+(N) 2026-06-05T22:47:11 - Trying to listen on the following list of IP addresses: "100.114.144.72:2517"
+(I) 2026-06-05T22:47:11 - Peer ID: "-qB4600-"
+(I) 2026-06-05T22:47:11 - HTTP User-Agent: "qBittorrent/4.6.0"
+(I) 2026-06-05T22:47:11 - Distributed Hash Table (DHT) support: ON
+(I) 2026-06-05T22:47:11 - Local Peer Discovery support: ON
+(I) 2026-06-05T22:47:11 - Peer Exchange (PeX) support: ON
+(I) 2026-06-05T22:47:11 - Anonymous mode: OFF
+(I) 2026-06-05T22:47:11 - Encryption support: ON
+(I) 2026-06-05T22:47:11 - Successfully listening on IP. IP: "100.114.144.72". Port: "TCP/2517"
+(I) 2026-06-05T22:47:11 - Successfully listening on IP. IP: "100.114.144.72". Port: "UDP/2517"
+(I) 2026-06-05T22:47:11 - UPnP/NAT-PMP support: ON
+(I) 2026-06-05T22:47:11 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 01:42:47 2026.
+(N) 2026-06-05T22:47:11 - Using built-in Web UI.
+(N) 2026-06-05T22:47:11 - Web UI translation for selected locale (en) has been successfully loaded.
+(C) 2026-06-05T22:47:11 - Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available
+"Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available"
+(N) 2026-06-05T22:47:11 - qBittorrent termination initiated
+(N) 2026-06-05T22:47:11 - qBittorrent is now ready to exit
+WebUI will be started shortly after internal preparations. Please wait...
+
+******** Information ********
+To control qBittorrent, access the WebUI at: http://localhost:8080
+
+(N) 2026-06-05T22:48:16 - qBittorrent v4.6.0 started
+(N) 2026-06-05T22:48:16 - Using config directory: /config/qBittorrent/config
+(N) 2026-06-05T22:48:16 - Trying to listen on the following list of IP addresses: "100.114.144.72:2517"
+(I) 2026-06-05T22:48:16 - Peer ID: "-qB4600-"
+(I) 2026-06-05T22:48:16 - HTTP User-Agent: "qBittorrent/4.6.0"
+(I) 2026-06-05T22:48:16 - Distributed Hash Table (DHT) support: ON
+(I) 2026-06-05T22:48:16 - Local Peer Discovery support: ON
+(I) 2026-06-05T22:48:16 - Peer Exchange (PeX) support: ON
+(I) 2026-06-05T22:48:16 - Anonymous mode: OFF
+(I) 2026-06-05T22:48:16 - Encryption support: ON
+(I) 2026-06-05T22:48:16 - Successfully listening on IP. IP: "100.114.144.72". Port: "TCP/2517"
+(I) 2026-06-05T22:48:16 - Successfully listening on IP. IP: "100.114.144.72". Port: "UDP/2517"
+(I) 2026-06-05T22:48:16 - UPnP/NAT-PMP support: ON
+(I) 2026-06-05T22:48:16 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 01:42:47 2026.
+(N) 2026-06-05T22:48:16 - Using built-in Web UI.
+(N) 2026-06-05T22:48:16 - Web UI translation for selected locale (en) has been successfully loaded.
+(C) 2026-06-05T22:48:16 - Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available
+"Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available"
+(N) 2026-06-05T22:48:16 - qBittorrent termination initiated
+(N) 2026-06-05T22:48:17 - qBittorrent is now ready to exit
+WebUI will be started shortly after internal preparations. Please wait...
+
+******** Information ********
+To control qBittorrent, access the WebUI at: http://localhost:8080
+
+(N) 2026-06-05T22:49:21 - qBittorrent v4.6.0 started
+(N) 2026-06-05T22:49:21 - Using config directory: /config/qBittorrent/config
+(N) 2026-06-05T22:49:21 - Trying to listen on the following list of IP addresses: "100.114.144.72:2517"
+(I) 2026-06-05T22:49:21 - Peer ID: "-qB4600-"
+(I) 2026-06-05T22:49:21 - HTTP User-Agent: "qBittorrent/4.6.0"
+(I) 2026-06-05T22:49:21 - Distributed Hash Table (DHT) support: ON
+(I) 2026-06-05T22:49:21 - Local Peer Discovery support: ON
+(I) 2026-06-05T22:49:21 - Peer Exchange (PeX) support: ON
+(I) 2026-06-05T22:49:21 - Anonymous mode: OFF
+(I) 2026-06-05T22:49:21 - Encryption support: ON
+(I) 2026-06-05T22:49:21 - Successfully listening on IP. IP: "100.114.144.72". Port: "TCP/2517"
+(I) 2026-06-05T22:49:21 - Successfully listening on IP. IP: "100.114.144.72". Port: "UDP/2517"
+(I) 2026-06-05T22:49:21 - UPnP/NAT-PMP support: ON
+(I) 2026-06-05T22:49:21 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 01:42:47 2026.
+(N) 2026-06-05T22:49:21 - Using built-in Web UI.
+(N) 2026-06-05T22:49:21 - Web UI translation for selected locale (en) has been successfully loaded.
+(C) 2026-06-05T22:49:21 - Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available
+"Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available"
+(N) 2026-06-05T22:49:21 - qBittorrent termination initiated
+(N) 2026-06-05T22:49:22 - qBittorrent is now ready to exit
+WebUI will be started shortly after internal preparations. Please wait...
+
+******** Information ********
+To control qBittorrent, access the WebUI at: http://localhost:8080
+
+(N) 2026-06-05T22:50:27 - qBittorrent v4.6.0 started
+(N) 2026-06-05T22:50:27 - Using config directory: /config/qBittorrent/config
+(N) 2026-06-05T22:50:27 - Trying to listen on the following list of IP addresses: "100.114.144.72:2517"
+(I) 2026-06-05T22:50:27 - Peer ID: "-qB4600-"
+(I) 2026-06-05T22:50:27 - HTTP User-Agent: "qBittorrent/4.6.0"
+(I) 2026-06-05T22:50:27 - Distributed Hash Table (DHT) support: ON
+(I) 2026-06-05T22:50:27 - Local Peer Discovery support: ON
+(I) 2026-06-05T22:50:27 - Peer Exchange (PeX) support: ON
+(I) 2026-06-05T22:50:27 - Anonymous mode: OFF
+(I) 2026-06-05T22:50:27 - Encryption support: ON
+(I) 2026-06-05T22:50:27 - Successfully listening on IP. IP: "100.114.144.72". Port: "TCP/2517"
+(I) 2026-06-05T22:50:27 - Successfully listening on IP. IP: "100.114.144.72". Port: "UDP/2517"
+(I) 2026-06-05T22:50:27 - UPnP/NAT-PMP support: ON
+(I) 2026-06-05T22:50:27 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 01:42:47 2026.
+(N) 2026-06-05T22:50:27 - Using built-in Web UI.
+(N) 2026-06-05T22:50:27 - Web UI translation for selected locale (en) has been successfully loaded.
+(C) 2026-06-05T22:50:27 - Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available
+"Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available"
+(N) 2026-06-05T22:50:27 - qBittorrent termination initiated
+(N) 2026-06-05T22:50:27 - qBittorrent is now ready to exit
+WebUI will be started shortly after internal preparations. Please wait...
+
+******** Information ********
+To control qBittorrent, access the WebUI at: http://localhost:8080
+
+(N) 2026-06-05T22:51:32 - qBittorrent v4.6.0 started
+(N) 2026-06-05T22:51:32 - Using config directory: /config/qBittorrent/config
+(N) 2026-06-05T22:51:32 - Trying to listen on the following list of IP addresses: "100.114.144.72:2517"
+(I) 2026-06-05T22:51:32 - Peer ID: "-qB4600-"
+(I) 2026-06-05T22:51:32 - HTTP User-Agent: "qBittorrent/4.6.0"
+(I) 2026-06-05T22:51:32 - Distributed Hash Table (DHT) support: ON
+(I) 2026-06-05T22:51:32 - Local Peer Discovery support: ON
+(I) 2026-06-05T22:51:32 - Peer Exchange (PeX) support: ON
+(I) 2026-06-05T22:51:32 - Anonymous mode: OFF
+(I) 2026-06-05T22:51:32 - Encryption support: ON
+(I) 2026-06-05T22:51:32 - Successfully listening on IP. IP: "100.114.144.72". Port: "TCP/2517"
+(I) 2026-06-05T22:51:32 - Successfully listening on IP. IP: "100.114.144.72". Port: "UDP/2517"
+(I) 2026-06-05T22:51:32 - UPnP/NAT-PMP support: ON
+(I) 2026-06-05T22:51:32 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 01:42:47 2026.
+(N) 2026-06-05T22:51:32 - Using built-in Web UI.
+(N) 2026-06-05T22:51:32 - Web UI translation for selected locale (en) has been successfully loaded.
+(C) 2026-06-05T22:51:32 - Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available
+"Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available"
+(N) 2026-06-05T22:51:32 - qBittorrent termination initiated
+(N) 2026-06-05T22:51:33 - qBittorrent is now ready to exit
+WebUI will be started shortly after internal preparations. Please wait...
+
+******** Information ********
+To control qBittorrent, access the WebUI at: http://localhost:8080
+
+(N) 2026-06-05T22:52:37 - qBittorrent v4.6.0 started
+(N) 2026-06-05T22:52:37 - Using config directory: /config/qBittorrent/config
+(N) 2026-06-05T22:52:37 - Trying to listen on the following list of IP addresses: "100.114.144.72:2517"
+(I) 2026-06-05T22:52:37 - Peer ID: "-qB4600-"
+(I) 2026-06-05T22:52:37 - HTTP User-Agent: "qBittorrent/4.6.0"
+(I) 2026-06-05T22:52:37 - Distributed Hash Table (DHT) support: ON
+(I) 2026-06-05T22:52:37 - Local Peer Discovery support: ON
+(I) 2026-06-05T22:52:37 - Peer Exchange (PeX) support: ON
+(I) 2026-06-05T22:52:37 - Anonymous mode: OFF
+(I) 2026-06-05T22:52:37 - Encryption support: ON
+(I) 2026-06-05T22:52:37 - Successfully listening on IP. IP: "100.114.144.72". Port: "TCP/2517"
+(I) 2026-06-05T22:52:37 - Successfully listening on IP. IP: "100.114.144.72". Port: "UDP/2517"
+(I) 2026-06-05T22:52:37 - UPnP/NAT-PMP support: ON
+(I) 2026-06-05T22:52:37 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 01:42:47 2026.
+(N) 2026-06-05T22:52:37 - Using built-in Web UI.
+(N) 2026-06-05T22:52:37 - Web UI translation for selected locale (en) has been successfully loaded.
+(C) 2026-06-05T22:52:37 - Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available
+"Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available"
+(N) 2026-06-05T22:52:37 - qBittorrent termination initiated
+(N) 2026-06-05T22:52:38 - qBittorrent is now ready to exit
+WebUI will be started shortly after internal preparations. Please wait...
+
+******** Information ********
+To control qBittorrent, access the WebUI at: http://localhost:8080
+
+(N) 2026-06-05T22:53:43 - qBittorrent v4.6.0 started
+(N) 2026-06-05T22:53:43 - Using config directory: /config/qBittorrent/config
+(N) 2026-06-05T22:53:43 - Trying to listen on the following list of IP addresses: "100.114.144.72:2517"
+(I) 2026-06-05T22:53:43 - Peer ID: "-qB4600-"
+(I) 2026-06-05T22:53:43 - HTTP User-Agent: "qBittorrent/4.6.0"
+(I) 2026-06-05T22:53:43 - Distributed Hash Table (DHT) support: ON
+(I) 2026-06-05T22:53:43 - Local Peer Discovery support: ON
+(I) 2026-06-05T22:53:43 - Peer Exchange (PeX) support: ON
+(I) 2026-06-05T22:53:43 - Anonymous mode: OFF
+(I) 2026-06-05T22:53:43 - Encryption support: ON
+(I) 2026-06-05T22:53:43 - Successfully listening on IP. IP: "100.114.144.72". Port: "TCP/2517"
+(I) 2026-06-05T22:53:43 - Successfully listening on IP. IP: "100.114.144.72". Port: "UDP/2517"
+(I) 2026-06-05T22:53:43 - UPnP/NAT-PMP support: ON
+(I) 2026-06-05T22:53:43 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 01:42:47 2026.
+(N) 2026-06-05T22:53:43 - Using built-in Web UI.
+(N) 2026-06-05T22:53:43 - Web UI translation for selected locale (en) has been successfully loaded.
+(C) 2026-06-05T22:53:43 - Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available
+"Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available"
+(N) 2026-06-05T22:53:43 - qBittorrent termination initiated
+(N) 2026-06-05T22:53:43 - qBittorrent is now ready to exit
+WebUI will be started shortly after internal preparations. Please wait...
+
+******** Information ********
+To control qBittorrent, access the WebUI at: http://localhost:8080
+
+(N) 2026-06-05T22:54:48 - qBittorrent v4.6.0 started
+(N) 2026-06-05T22:54:48 - Using config directory: /config/qBittorrent/config
+(N) 2026-06-05T22:54:48 - Trying to listen on the following list of IP addresses: "100.114.144.72:2517"
+(I) 2026-06-05T22:54:48 - Peer ID: "-qB4600-"
+(I) 2026-06-05T22:54:48 - HTTP User-Agent: "qBittorrent/4.6.0"
+(I) 2026-06-05T22:54:48 - Distributed Hash Table (DHT) support: ON
+(I) 2026-06-05T22:54:48 - Local Peer Discovery support: ON
+(I) 2026-06-05T22:54:48 - Peer Exchange (PeX) support: ON
+(I) 2026-06-05T22:54:48 - Anonymous mode: OFF
+(I) 2026-06-05T22:54:48 - Encryption support: ON
+(I) 2026-06-05T22:54:48 - Successfully listening on IP. IP: "100.114.144.72". Port: "TCP/2517"
+(I) 2026-06-05T22:54:48 - Successfully listening on IP. IP: "100.114.144.72". Port: "UDP/2517"
+(I) 2026-06-05T22:54:48 - UPnP/NAT-PMP support: ON
+(I) 2026-06-05T22:54:48 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 01:42:47 2026.
+(N) 2026-06-05T22:54:48 - Using built-in Web UI.
+(N) 2026-06-05T22:54:48 - Web UI translation for selected locale (en) has been successfully loaded.
+(C) 2026-06-05T22:54:48 - Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available
+"Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available"
+(N) 2026-06-05T22:54:48 - qBittorrent termination initiated
+(N) 2026-06-05T22:54:48 - qBittorrent is now ready to exit
+WebUI will be started shortly after internal preparations. Please wait...
+
+******** Information ********
+To control qBittorrent, access the WebUI at: http://localhost:8080
+
+(N) 2026-06-05T22:55:53 - qBittorrent v4.6.0 started
+(N) 2026-06-05T22:55:53 - Using config directory: /config/qBittorrent/config
+(N) 2026-06-05T22:55:53 - Trying to listen on the following list of IP addresses: "100.114.144.72:2517"
+(I) 2026-06-05T22:55:53 - Peer ID: "-qB4600-"
+(I) 2026-06-05T22:55:53 - HTTP User-Agent: "qBittorrent/4.6.0"
+(I) 2026-06-05T22:55:53 - Distributed Hash Table (DHT) support: ON
+(I) 2026-06-05T22:55:53 - Local Peer Discovery support: ON
+(I) 2026-06-05T22:55:53 - Peer Exchange (PeX) support: ON
+(I) 2026-06-05T22:55:53 - Anonymous mode: OFF
+(I) 2026-06-05T22:55:53 - Encryption support: ON
+(I) 2026-06-05T22:55:53 - Successfully listening on IP. IP: "100.114.144.72". Port: "TCP/2517"
+(I) 2026-06-05T22:55:53 - Successfully listening on IP. IP: "100.114.144.72". Port: "UDP/2517"
+(I) 2026-06-05T22:55:53 - UPnP/NAT-PMP support: ON
+(I) 2026-06-05T22:55:53 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 01:42:47 2026.
+(N) 2026-06-05T22:55:53 - Using built-in Web UI.
+(N) 2026-06-05T22:55:53 - Web UI translation for selected locale (en) has been successfully loaded.
+(C) 2026-06-05T22:55:53 - Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available
+"Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available"
+(N) 2026-06-05T22:55:53 - qBittorrent termination initiated
+(N) 2026-06-05T22:55:53 - qBittorrent is now ready to exit
+WebUI will be started shortly after internal preparations. Please wait...
+
+******** Information ********
+To control qBittorrent, access the WebUI at: http://localhost:8080
+
+(N) 2026-06-05T22:56:58 - qBittorrent v4.6.0 started
+(N) 2026-06-05T22:56:58 - Using config directory: /config/qBittorrent/config
+(N) 2026-06-05T22:56:58 - Trying to listen on the following list of IP addresses: "100.114.144.72:2517"
+(I) 2026-06-05T22:56:58 - Peer ID: "-qB4600-"
+(I) 2026-06-05T22:56:58 - HTTP User-Agent: "qBittorrent/4.6.0"
+(I) 2026-06-05T22:56:58 - Distributed Hash Table (DHT) support: ON
+(I) 2026-06-05T22:56:58 - Local Peer Discovery support: ON
+(I) 2026-06-05T22:56:58 - Peer Exchange (PeX) support: ON
+(I) 2026-06-05T22:56:58 - Anonymous mode: OFF
+(I) 2026-06-05T22:56:58 - Encryption support: ON
+(I) 2026-06-05T22:56:58 - Successfully listening on IP. IP: "100.114.144.72". Port: "TCP/2517"
+(I) 2026-06-05T22:56:58 - Successfully listening on IP. IP: "100.114.144.72". Port: "UDP/2517"
+(I) 2026-06-05T22:56:58 - UPnP/NAT-PMP support: ON
+(I) 2026-06-05T22:56:58 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 01:42:47 2026.
+(N) 2026-06-05T22:56:58 - Using built-in Web UI.
+(N) 2026-06-05T22:56:58 - Web UI translation for selected locale (en) has been successfully loaded.
+(C) 2026-06-05T22:56:58 - Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available
+"Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available"
+(N) 2026-06-05T22:56:58 - qBittorrent termination initiated
+(N) 2026-06-05T22:56:59 - qBittorrent is now ready to exit
+WebUI will be started shortly after internal preparations. Please wait...
+
+******** Information ********
+To control qBittorrent, access the WebUI at: http://localhost:8080
+
+(N) 2026-06-05T22:58:03 - qBittorrent v4.6.0 started
+(N) 2026-06-05T22:58:03 - Using config directory: /config/qBittorrent/config
+(N) 2026-06-05T22:58:03 - Trying to listen on the following list of IP addresses: "100.114.144.72:2517"
+(I) 2026-06-05T22:58:03 - Peer ID: "-qB4600-"
+(I) 2026-06-05T22:58:03 - HTTP User-Agent: "qBittorrent/4.6.0"
+(I) 2026-06-05T22:58:03 - Distributed Hash Table (DHT) support: ON
+(I) 2026-06-05T22:58:03 - Local Peer Discovery support: ON
+(I) 2026-06-05T22:58:03 - Peer Exchange (PeX) support: ON
+(I) 2026-06-05T22:58:03 - Anonymous mode: OFF
+(I) 2026-06-05T22:58:03 - Encryption support: ON
+(I) 2026-06-05T22:58:03 - UPnP/NAT-PMP support: ON
+(I) 2026-06-05T22:58:03 - Successfully listening on IP. IP: "100.114.144.72". Port: "TCP/2517"
+(I) 2026-06-05T22:58:03 - Successfully listening on IP. IP: "100.114.144.72". Port: "UDP/2517"
+(I) 2026-06-05T22:58:03 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 01:42:47 2026.
+(N) 2026-06-05T22:58:03 - Using built-in Web UI.
+(N) 2026-06-05T22:58:03 - Web UI translation for selected locale (en) has been successfully loaded.
+(C) 2026-06-05T22:58:03 - Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available
+"Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available"
+(N) 2026-06-05T22:58:03 - qBittorrent termination initiated
+(N) 2026-06-05T22:58:03 - qBittorrent is now ready to exit
+WebUI will be started shortly after internal preparations. Please wait...
+
+******** Information ********
+To control qBittorrent, access the WebUI at: http://localhost:8080
+
+(N) 2026-06-05T22:59:08 - qBittorrent v4.6.0 started
+(N) 2026-06-05T22:59:08 - Using config directory: /config/qBittorrent/config
+(N) 2026-06-05T22:59:08 - Trying to listen on the following list of IP addresses: "100.114.144.72:2517"
+(I) 2026-06-05T22:59:08 - Peer ID: "-qB4600-"
+(I) 2026-06-05T22:59:08 - HTTP User-Agent: "qBittorrent/4.6.0"
+(I) 2026-06-05T22:59:08 - Distributed Hash Table (DHT) support: ON
+(I) 2026-06-05T22:59:08 - Local Peer Discovery support: ON
+(I) 2026-06-05T22:59:08 - Peer Exchange (PeX) support: ON
+(I) 2026-06-05T22:59:08 - Anonymous mode: OFF
+(I) 2026-06-05T22:59:08 - Encryption support: ON
+(I) 2026-06-05T22:59:08 - Successfully listening on IP. IP: "100.114.144.72". Port: "TCP/2517"
+(I) 2026-06-05T22:59:08 - Successfully listening on IP. IP: "100.114.144.72". Port: "UDP/2517"
+(I) 2026-06-05T22:59:08 - UPnP/NAT-PMP support: ON
+(I) 2026-06-05T22:59:08 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 01:42:47 2026.
+(N) 2026-06-05T22:59:08 - Using built-in Web UI.
+(N) 2026-06-05T22:59:08 - Web UI translation for selected locale (en) has been successfully loaded.
+(C) 2026-06-05T22:59:08 - Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available
+"Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available"
+(N) 2026-06-05T22:59:08 - qBittorrent termination initiated
+(N) 2026-06-05T22:59:09 - qBittorrent is now ready to exit
+WebUI will be started shortly after internal preparations. Please wait...
+
+******** Information ********
+To control qBittorrent, access the WebUI at: http://localhost:8080
+
+(N) 2026-06-05T23:00:13 - qBittorrent v4.6.0 started
+(N) 2026-06-05T23:00:13 - Using config directory: /config/qBittorrent/config
+(N) 2026-06-05T23:00:13 - Trying to listen on the following list of IP addresses: "100.114.144.72:2517"
+(I) 2026-06-05T23:00:13 - Peer ID: "-qB4600-"
+(I) 2026-06-05T23:00:13 - HTTP User-Agent: "qBittorrent/4.6.0"
+(I) 2026-06-05T23:00:13 - Distributed Hash Table (DHT) support: ON
+(I) 2026-06-05T23:00:13 - Local Peer Discovery support: ON
+(I) 2026-06-05T23:00:13 - Peer Exchange (PeX) support: ON
+(I) 2026-06-05T23:00:13 - Anonymous mode: OFF
+(I) 2026-06-05T23:00:13 - Encryption support: ON
+(I) 2026-06-05T23:00:13 - UPnP/NAT-PMP support: ON
+(I) 2026-06-05T23:00:13 - Successfully listening on IP. IP: "100.114.144.72". Port: "TCP/2517"
+(I) 2026-06-05T23:00:13 - Successfully listening on IP. IP: "100.114.144.72". Port: "UDP/2517"
+(I) 2026-06-05T23:00:13 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 01:42:47 2026.
+(N) 2026-06-05T23:00:13 - Using built-in Web UI.
+(N) 2026-06-05T23:00:13 - Web UI translation for selected locale (en) has been successfully loaded.
+(C) 2026-06-05T23:00:13 - Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available
+"Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available"
+(N) 2026-06-05T23:00:13 - qBittorrent termination initiated
+(N) 2026-06-05T23:00:14 - qBittorrent is now ready to exit
+WebUI will be started shortly after internal preparations. Please wait...
+
+******** Information ********
+To control qBittorrent, access the WebUI at: http://localhost:8080
+
+(N) 2026-06-05T23:01:19 - qBittorrent v4.6.0 started
+(N) 2026-06-05T23:01:19 - Using config directory: /config/qBittorrent/config
+(N) 2026-06-05T23:01:19 - Trying to listen on the following list of IP addresses: "100.114.144.72:2517"
+(I) 2026-06-05T23:01:19 - Peer ID: "-qB4600-"
+(I) 2026-06-05T23:01:19 - HTTP User-Agent: "qBittorrent/4.6.0"
+(I) 2026-06-05T23:01:19 - Distributed Hash Table (DHT) support: ON
+(I) 2026-06-05T23:01:19 - Local Peer Discovery support: ON
+(I) 2026-06-05T23:01:19 - Peer Exchange (PeX) support: ON
+(I) 2026-06-05T23:01:19 - Anonymous mode: OFF
+(I) 2026-06-05T23:01:19 - Encryption support: ON
+(I) 2026-06-05T23:01:19 - UPnP/NAT-PMP support: ON
+(I) 2026-06-05T23:01:19 - Successfully listening on IP. IP: "100.114.144.72". Port: "TCP/2517"
+(I) 2026-06-05T23:01:19 - Successfully listening on IP. IP: "100.114.144.72". Port: "UDP/2517"
+(I) 2026-06-05T23:01:19 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 01:42:47 2026.
+(N) 2026-06-05T23:01:19 - Using built-in Web UI.
+(N) 2026-06-05T23:01:19 - Web UI translation for selected locale (en) has been successfully loaded.
+(C) 2026-06-05T23:01:19 - Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available
+"Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available"
+(N) 2026-06-05T23:01:19 - qBittorrent termination initiated
+(N) 2026-06-05T23:01:19 - qBittorrent is now ready to exit
+WebUI will be started shortly after internal preparations. Please wait...
+
+******** Information ********
+To control qBittorrent, access the WebUI at: http://localhost:8080
+
+(N) 2026-06-05T23:02:24 - qBittorrent v4.6.0 started
+(N) 2026-06-05T23:02:24 - Using config directory: /config/qBittorrent/config
+(N) 2026-06-05T23:02:24 - Trying to listen on the following list of IP addresses: "100.114.144.72:2517"
+(I) 2026-06-05T23:02:24 - Peer ID: "-qB4600-"
+(I) 2026-06-05T23:02:24 - HTTP User-Agent: "qBittorrent/4.6.0"
+(I) 2026-06-05T23:02:24 - Distributed Hash Table (DHT) support: ON
+(I) 2026-06-05T23:02:24 - Local Peer Discovery support: ON
+(I) 2026-06-05T23:02:24 - Peer Exchange (PeX) support: ON
+(I) 2026-06-05T23:02:24 - Anonymous mode: OFF
+(I) 2026-06-05T23:02:24 - Encryption support: ON
+(I) 2026-06-05T23:02:24 - Successfully listening on IP. IP: "100.114.144.72". Port: "TCP/2517"
+(I) 2026-06-05T23:02:24 - Successfully listening on IP. IP: "100.114.144.72". Port: "UDP/2517"
+(I) 2026-06-05T23:02:24 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 01:42:47 2026.
+(N) 2026-06-05T23:02:24 - Using built-in Web UI.
+(N) 2026-06-05T23:02:24 - Web UI translation for selected locale (en) has been successfully loaded.
+(C) 2026-06-05T23:02:24 - Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available
+"Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available"
+(N) 2026-06-05T23:02:24 - qBittorrent termination initiated
+(N) 2026-06-05T23:02:24 - qBittorrent is now ready to exit
+WebUI will be started shortly after internal preparations. Please wait...
+
+******** Information ********
+To control qBittorrent, access the WebUI at: http://localhost:8080
+
+(N) 2026-06-05T23:03:29 - qBittorrent v4.6.0 started
+(N) 2026-06-05T23:03:29 - Using config directory: /config/qBittorrent/config
+(N) 2026-06-05T23:03:29 - Trying to listen on the following list of IP addresses: "100.114.144.72:2517"
+(I) 2026-06-05T23:03:29 - Peer ID: "-qB4600-"
+(I) 2026-06-05T23:03:29 - HTTP User-Agent: "qBittorrent/4.6.0"
+(I) 2026-06-05T23:03:29 - Distributed Hash Table (DHT) support: ON
+(I) 2026-06-05T23:03:29 - Local Peer Discovery support: ON
+(I) 2026-06-05T23:03:29 - Peer Exchange (PeX) support: ON
+(I) 2026-06-05T23:03:29 - Anonymous mode: OFF
+(I) 2026-06-05T23:03:29 - Encryption support: ON
+(I) 2026-06-05T23:03:29 - Successfully listening on IP. IP: "100.114.144.72". Port: "TCP/2517"
+(I) 2026-06-05T23:03:29 - Successfully listening on IP. IP: "100.114.144.72". Port: "UDP/2517"
+(I) 2026-06-05T23:03:29 - UPnP/NAT-PMP support: ON
+(I) 2026-06-05T23:03:29 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 01:42:47 2026.
+(N) 2026-06-05T23:03:29 - Using built-in Web UI.
+(N) 2026-06-05T23:03:29 - Web UI translation for selected locale (en) has been successfully loaded.
+(C) 2026-06-05T23:03:29 - Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available
+"Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available"
+(N) 2026-06-05T23:03:29 - qBittorrent termination initiated
+(N) 2026-06-05T23:03:30 - qBittorrent is now ready to exit
+WebUI will be started shortly after internal preparations. Please wait...
+
+******** Information ********
+To control qBittorrent, access the WebUI at: http://localhost:8080
+
+(N) 2026-06-05T23:04:34 - qBittorrent v4.6.0 started
+(N) 2026-06-05T23:04:34 - Using config directory: /config/qBittorrent/config
+(N) 2026-06-05T23:04:34 - Trying to listen on the following list of IP addresses: "100.114.144.72:2517"
+(I) 2026-06-05T23:04:34 - Peer ID: "-qB4600-"
+(I) 2026-06-05T23:04:34 - HTTP User-Agent: "qBittorrent/4.6.0"
+(I) 2026-06-05T23:04:34 - Distributed Hash Table (DHT) support: ON
+(I) 2026-06-05T23:04:34 - Local Peer Discovery support: ON
+(I) 2026-06-05T23:04:34 - Peer Exchange (PeX) support: ON
+(I) 2026-06-05T23:04:34 - Anonymous mode: OFF
+(I) 2026-06-05T23:04:34 - Encryption support: ON
+(I) 2026-06-05T23:04:34 - Successfully listening on IP. IP: "100.114.144.72". Port: "TCP/2517"
+(I) 2026-06-05T23:04:34 - Successfully listening on IP. IP: "100.114.144.72". Port: "UDP/2517"
+(I) 2026-06-05T23:04:34 - UPnP/NAT-PMP support: ON
+(I) 2026-06-05T23:04:34 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 01:42:47 2026.
+(N) 2026-06-05T23:04:34 - Using built-in Web UI.
+(N) 2026-06-05T23:04:34 - Web UI translation for selected locale (en) has been successfully loaded.
+(C) 2026-06-05T23:04:34 - Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available
+"Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available"
+(N) 2026-06-05T23:04:34 - qBittorrent termination initiated
+(N) 2026-06-05T23:04:35 - qBittorrent is now ready to exit
+WebUI will be started shortly after internal preparations. Please wait...
+
+******** Information ********
+To control qBittorrent, access the WebUI at: http://localhost:8080
+
+(N) 2026-06-05T23:05:40 - qBittorrent v4.6.0 started
+(N) 2026-06-05T23:05:40 - Using config directory: /config/qBittorrent/config
+(N) 2026-06-05T23:05:40 - Trying to listen on the following list of IP addresses: "100.114.144.72:2517"
+(I) 2026-06-05T23:05:40 - Peer ID: "-qB4600-"
+(I) 2026-06-05T23:05:40 - HTTP User-Agent: "qBittorrent/4.6.0"
+(I) 2026-06-05T23:05:40 - Distributed Hash Table (DHT) support: ON
+(I) 2026-06-05T23:05:40 - Local Peer Discovery support: ON
+(I) 2026-06-05T23:05:40 - Peer Exchange (PeX) support: ON
+(I) 2026-06-05T23:05:40 - Anonymous mode: OFF
+(I) 2026-06-05T23:05:40 - Encryption support: ON
+(I) 2026-06-05T23:05:40 - Successfully listening on IP. IP: "100.114.144.72". Port: "TCP/2517"
+(I) 2026-06-05T23:05:40 - Successfully listening on IP. IP: "100.114.144.72". Port: "UDP/2517"
+(I) 2026-06-05T23:05:40 - UPnP/NAT-PMP support: ON
+(I) 2026-06-05T23:05:40 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 01:42:47 2026.
+(N) 2026-06-05T23:05:40 - Using built-in Web UI.
+(N) 2026-06-05T23:05:40 - Web UI translation for selected locale (en) has been successfully loaded.
+(C) 2026-06-05T23:05:40 - Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available
+"Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available"
+(N) 2026-06-05T23:05:40 - qBittorrent termination initiated
+(N) 2026-06-05T23:05:40 - qBittorrent is now ready to exit
+WebUI will be started shortly after internal preparations. Please wait...
+
+******** Information ********
+To control qBittorrent, access the WebUI at: http://localhost:8080
+
+(N) 2026-06-05T23:06:45 - qBittorrent v4.6.0 started
+(N) 2026-06-05T23:06:45 - Using config directory: /config/qBittorrent/config
+(N) 2026-06-05T23:06:45 - Trying to listen on the following list of IP addresses: "100.114.144.72:2517"
+(I) 2026-06-05T23:06:45 - Peer ID: "-qB4600-"
+(I) 2026-06-05T23:06:45 - HTTP User-Agent: "qBittorrent/4.6.0"
+(I) 2026-06-05T23:06:45 - Distributed Hash Table (DHT) support: ON
+(I) 2026-06-05T23:06:45 - Local Peer Discovery support: ON
+(I) 2026-06-05T23:06:45 - Peer Exchange (PeX) support: ON
+(I) 2026-06-05T23:06:45 - Anonymous mode: OFF
+(I) 2026-06-05T23:06:45 - Encryption support: ON
+(I) 2026-06-05T23:06:45 - Successfully listening on IP. IP: "100.114.144.72". Port: "TCP/2517"
+(I) 2026-06-05T23:06:45 - Successfully listening on IP. IP: "100.114.144.72". Port: "UDP/2517"
+(I) 2026-06-05T23:06:45 - UPnP/NAT-PMP support: ON
+(I) 2026-06-05T23:06:45 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 01:42:47 2026.
+(N) 2026-06-05T23:06:45 - Using built-in Web UI.
+(N) 2026-06-05T23:06:45 - Web UI translation for selected locale (en) has been successfully loaded.
+(C) 2026-06-05T23:06:45 - Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available
+"Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available"
+(N) 2026-06-05T23:06:45 - qBittorrent termination initiated
+(N) 2026-06-05T23:06:46 - qBittorrent is now ready to exit
+WebUI will be started shortly after internal preparations. Please wait...
+
+******** Information ********
+To control qBittorrent, access the WebUI at: http://localhost:8080
+
+(N) 2026-06-05T23:07:50 - qBittorrent v4.6.0 started
+(N) 2026-06-05T23:07:50 - Using config directory: /config/qBittorrent/config
+(N) 2026-06-05T23:07:50 - Trying to listen on the following list of IP addresses: "100.114.144.72:2517"
+(I) 2026-06-05T23:07:50 - Peer ID: "-qB4600-"
+(I) 2026-06-05T23:07:50 - HTTP User-Agent: "qBittorrent/4.6.0"
+(I) 2026-06-05T23:07:50 - Distributed Hash Table (DHT) support: ON
+(I) 2026-06-05T23:07:50 - Local Peer Discovery support: ON
+(I) 2026-06-05T23:07:50 - Peer Exchange (PeX) support: ON
+(I) 2026-06-05T23:07:50 - Anonymous mode: OFF
+(I) 2026-06-05T23:07:50 - Encryption support: ON
+(I) 2026-06-05T23:07:50 - Successfully listening on IP. IP: "100.114.144.72". Port: "TCP/2517"
+(I) 2026-06-05T23:07:50 - Successfully listening on IP. IP: "100.114.144.72". Port: "UDP/2517"
+(I) 2026-06-05T23:07:50 - UPnP/NAT-PMP support: ON
+(I) 2026-06-05T23:07:50 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 01:42:47 2026.
+(N) 2026-06-05T23:07:50 - Using built-in Web UI.
+(N) 2026-06-05T23:07:50 - Web UI translation for selected locale (en) has been successfully loaded.
+(C) 2026-06-05T23:07:50 - Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available
+"Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available"
+(N) 2026-06-05T23:07:50 - qBittorrent termination initiated
+(N) 2026-06-05T23:07:51 - qBittorrent is now ready to exit
+WebUI will be started shortly after internal preparations. Please wait...
+
+******** Information ********
+To control qBittorrent, access the WebUI at: http://localhost:8080
+
+(N) 2026-06-05T23:08:55 - qBittorrent v4.6.0 started
+(N) 2026-06-05T23:08:55 - Using config directory: /config/qBittorrent/config
+(N) 2026-06-05T23:08:55 - Trying to listen on the following list of IP addresses: "100.114.144.72:2517"
+(I) 2026-06-05T23:08:55 - Peer ID: "-qB4600-"
+(I) 2026-06-05T23:08:55 - HTTP User-Agent: "qBittorrent/4.6.0"
+(I) 2026-06-05T23:08:55 - Distributed Hash Table (DHT) support: ON
+(I) 2026-06-05T23:08:55 - Local Peer Discovery support: ON
+(I) 2026-06-05T23:08:55 - Peer Exchange (PeX) support: ON
+(I) 2026-06-05T23:08:55 - Anonymous mode: OFF
+(I) 2026-06-05T23:08:55 - Encryption support: ON
+(I) 2026-06-05T23:08:55 - Successfully listening on IP. IP: "100.114.144.72". Port: "TCP/2517"
+(I) 2026-06-05T23:08:55 - Successfully listening on IP. IP: "100.114.144.72". Port: "UDP/2517"
+(I) 2026-06-05T23:08:55 - UPnP/NAT-PMP support: ON
+(I) 2026-06-05T23:08:55 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 01:42:47 2026.
+(N) 2026-06-05T23:08:55 - Using built-in Web UI.
+(N) 2026-06-05T23:08:55 - Web UI translation for selected locale (en) has been successfully loaded.
+(C) 2026-06-05T23:08:55 - Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available
+"Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available"
+(N) 2026-06-05T23:08:55 - qBittorrent termination initiated
+(N) 2026-06-05T23:08:56 - qBittorrent is now ready to exit
+WebUI will be started shortly after internal preparations. Please wait...
+
+******** Information ********
+To control qBittorrent, access the WebUI at: http://localhost:8080
+
+(N) 2026-06-05T23:10:00 - qBittorrent v4.6.0 started
+(N) 2026-06-05T23:10:00 - Using config directory: /config/qBittorrent/config
+(N) 2026-06-05T23:10:01 - Trying to listen on the following list of IP addresses: "100.114.144.72:2517"
+(I) 2026-06-05T23:10:01 - Peer ID: "-qB4600-"
+(I) 2026-06-05T23:10:01 - HTTP User-Agent: "qBittorrent/4.6.0"
+(I) 2026-06-05T23:10:01 - Distributed Hash Table (DHT) support: ON
+(I) 2026-06-05T23:10:01 - Local Peer Discovery support: ON
+(I) 2026-06-05T23:10:01 - Peer Exchange (PeX) support: ON
+(I) 2026-06-05T23:10:01 - Anonymous mode: OFF
+(I) 2026-06-05T23:10:01 - Encryption support: ON
+(I) 2026-06-05T23:10:01 - Successfully listening on IP. IP: "100.114.144.72". Port: "TCP/2517"
+(I) 2026-06-05T23:10:01 - Successfully listening on IP. IP: "100.114.144.72". Port: "UDP/2517"
+(I) 2026-06-05T23:10:01 - UPnP/NAT-PMP support: ON
+(I) 2026-06-05T23:10:01 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 01:42:47 2026.
+(N) 2026-06-05T23:10:01 - Using built-in Web UI.
+(N) 2026-06-05T23:10:01 - Web UI translation for selected locale (en) has been successfully loaded.
+(C) 2026-06-05T23:10:01 - Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available
+"Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available"
+(N) 2026-06-05T23:10:01 - qBittorrent termination initiated
+(N) 2026-06-05T23:10:01 - qBittorrent is now ready to exit
+WebUI will be started shortly after internal preparations. Please wait...
+
+******** Information ********
+To control qBittorrent, access the WebUI at: http://localhost:8080
+
+(N) 2026-06-05T23:11:06 - qBittorrent v4.6.0 started
+(N) 2026-06-05T23:11:06 - Using config directory: /config/qBittorrent/config
+(N) 2026-06-05T23:11:06 - Trying to listen on the following list of IP addresses: "100.114.144.72:2517"
+(I) 2026-06-05T23:11:06 - Peer ID: "-qB4600-"
+(I) 2026-06-05T23:11:06 - HTTP User-Agent: "qBittorrent/4.6.0"
+(I) 2026-06-05T23:11:06 - Distributed Hash Table (DHT) support: ON
+(I) 2026-06-05T23:11:06 - Local Peer Discovery support: ON
+(I) 2026-06-05T23:11:06 - Peer Exchange (PeX) support: ON
+(I) 2026-06-05T23:11:06 - Anonymous mode: OFF
+(I) 2026-06-05T23:11:06 - Encryption support: ON
+(I) 2026-06-05T23:11:06 - Successfully listening on IP. IP: "100.114.144.72". Port: "TCP/2517"
+(I) 2026-06-05T23:11:06 - Successfully listening on IP. IP: "100.114.144.72". Port: "UDP/2517"
+(I) 2026-06-05T23:11:06 - UPnP/NAT-PMP support: ON
+(I) 2026-06-05T23:11:06 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 01:42:47 2026.
+(N) 2026-06-05T23:11:06 - Using built-in Web UI.
+(N) 2026-06-05T23:11:06 - Web UI translation for selected locale (en) has been successfully loaded.
+(C) 2026-06-05T23:11:06 - Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available
+"Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available"
+(N) 2026-06-05T23:11:06 - qBittorrent termination initiated
+(N) 2026-06-05T23:11:06 - qBittorrent is now ready to exit
+WebUI will be started shortly after internal preparations. Please wait...
+
+******** Information ********
+To control qBittorrent, access the WebUI at: http://localhost:8080
+
+(N) 2026-06-05T23:12:11 - qBittorrent v4.6.0 started
+(N) 2026-06-05T23:12:11 - Using config directory: /config/qBittorrent/config
+(N) 2026-06-05T23:12:11 - Trying to listen on the following list of IP addresses: "100.114.144.72:2517"
+(I) 2026-06-05T23:12:11 - Peer ID: "-qB4600-"
+(I) 2026-06-05T23:12:11 - HTTP User-Agent: "qBittorrent/4.6.0"
+(I) 2026-06-05T23:12:11 - Distributed Hash Table (DHT) support: ON
+(I) 2026-06-05T23:12:11 - Local Peer Discovery support: ON
+(I) 2026-06-05T23:12:11 - Peer Exchange (PeX) support: ON
+(I) 2026-06-05T23:12:11 - Anonymous mode: OFF
+(I) 2026-06-05T23:12:11 - Encryption support: ON
+(I) 2026-06-05T23:12:11 - Successfully listening on IP. IP: "100.114.144.72". Port: "TCP/2517"
+(I) 2026-06-05T23:12:11 - Successfully listening on IP. IP: "100.114.144.72". Port: "UDP/2517"
+(I) 2026-06-05T23:12:11 - UPnP/NAT-PMP support: ON
+(I) 2026-06-05T23:12:11 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 01:42:47 2026.
+(N) 2026-06-05T23:12:11 - Using built-in Web UI.
+(N) 2026-06-05T23:12:11 - Web UI translation for selected locale (en) has been successfully loaded.
+(C) 2026-06-05T23:12:11 - Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available
+"Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available"
+(N) 2026-06-05T23:12:11 - qBittorrent termination initiated
+(N) 2026-06-05T23:12:11 - qBittorrent is now ready to exit
+WebUI will be started shortly after internal preparations. Please wait...
+
+******** Information ********
+To control qBittorrent, access the WebUI at: http://localhost:8080
+
+(N) 2026-06-05T23:13:16 - qBittorrent v4.6.0 started
+(N) 2026-06-05T23:13:16 - Using config directory: /config/qBittorrent/config
+(N) 2026-06-05T23:13:16 - Trying to listen on the following list of IP addresses: "100.114.144.72:2517"
+(I) 2026-06-05T23:13:16 - Peer ID: "-qB4600-"
+(I) 2026-06-05T23:13:16 - HTTP User-Agent: "qBittorrent/4.6.0"
+(I) 2026-06-05T23:13:16 - Distributed Hash Table (DHT) support: ON
+(I) 2026-06-05T23:13:16 - Local Peer Discovery support: ON
+(I) 2026-06-05T23:13:16 - Peer Exchange (PeX) support: ON
+(I) 2026-06-05T23:13:16 - Anonymous mode: OFF
+(I) 2026-06-05T23:13:16 - Encryption support: ON
+(I) 2026-06-05T23:13:16 - Successfully listening on IP. IP: "100.114.144.72". Port: "TCP/2517"
+(I) 2026-06-05T23:13:16 - Successfully listening on IP. IP: "100.114.144.72". Port: "UDP/2517"
+(I) 2026-06-05T23:13:16 - UPnP/NAT-PMP support: ON
+(I) 2026-06-05T23:13:16 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 01:42:47 2026.
+(N) 2026-06-05T23:13:16 - Using built-in Web UI.
+(N) 2026-06-05T23:13:16 - Web UI translation for selected locale (en) has been successfully loaded.
+(C) 2026-06-05T23:13:16 - Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available
+"Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available"
+(N) 2026-06-05T23:13:16 - qBittorrent termination initiated
+(N) 2026-06-05T23:13:17 - qBittorrent is now ready to exit
+WebUI will be started shortly after internal preparations. Please wait...
+
+******** Information ********
+To control qBittorrent, access the WebUI at: http://localhost:8080
+
+(N) 2026-06-05T23:14:21 - qBittorrent v4.6.0 started
+(N) 2026-06-05T23:14:21 - Using config directory: /config/qBittorrent/config
+(N) 2026-06-05T23:14:22 - Trying to listen on the following list of IP addresses: "100.114.144.72:2517"
+(I) 2026-06-05T23:14:22 - Peer ID: "-qB4600-"
+(I) 2026-06-05T23:14:22 - HTTP User-Agent: "qBittorrent/4.6.0"
+(I) 2026-06-05T23:14:22 - Distributed Hash Table (DHT) support: ON
+(I) 2026-06-05T23:14:22 - Local Peer Discovery support: ON
+(I) 2026-06-05T23:14:22 - Peer Exchange (PeX) support: ON
+(I) 2026-06-05T23:14:22 - Anonymous mode: OFF
+(I) 2026-06-05T23:14:22 - Encryption support: ON
+(I) 2026-06-05T23:14:22 - Successfully listening on IP. IP: "100.114.144.72". Port: "TCP/2517"
+(I) 2026-06-05T23:14:22 - Successfully listening on IP. IP: "100.114.144.72". Port: "UDP/2517"
+(I) 2026-06-05T23:14:22 - UPnP/NAT-PMP support: ON
+(I) 2026-06-05T23:14:22 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 01:42:47 2026.
+(N) 2026-06-05T23:14:22 - Using built-in Web UI.
+(N) 2026-06-05T23:14:22 - Web UI translation for selected locale (en) has been successfully loaded.
+(C) 2026-06-05T23:14:22 - Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available
+"Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available"
+(N) 2026-06-05T23:14:22 - qBittorrent termination initiated
+(N) 2026-06-05T23:14:22 - qBittorrent is now ready to exit
+WebUI will be started shortly after internal preparations. Please wait...
+
+******** Information ********
+To control qBittorrent, access the WebUI at: http://localhost:8080
+
+(N) 2026-06-05T23:15:27 - qBittorrent v4.6.0 started
+(N) 2026-06-05T23:15:27 - Using config directory: /config/qBittorrent/config
+(N) 2026-06-05T23:15:27 - Trying to listen on the following list of IP addresses: "100.114.144.72:2517"
+(I) 2026-06-05T23:15:27 - Peer ID: "-qB4600-"
+(I) 2026-06-05T23:15:27 - HTTP User-Agent: "qBittorrent/4.6.0"
+(I) 2026-06-05T23:15:27 - Distributed Hash Table (DHT) support: ON
+(I) 2026-06-05T23:15:27 - Local Peer Discovery support: ON
+(I) 2026-06-05T23:15:27 - Peer Exchange (PeX) support: ON
+(I) 2026-06-05T23:15:27 - Anonymous mode: OFF
+(I) 2026-06-05T23:15:27 - Encryption support: ON
+(I) 2026-06-05T23:15:27 - Successfully listening on IP. IP: "100.114.144.72". Port: "TCP/2517"
+(I) 2026-06-05T23:15:27 - Successfully listening on IP. IP: "100.114.144.72". Port: "UDP/2517"
+(I) 2026-06-05T23:15:27 - UPnP/NAT-PMP support: ON
+(I) 2026-06-05T23:15:27 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 01:42:47 2026.
+(N) 2026-06-05T23:15:27 - Using built-in Web UI.
+(N) 2026-06-05T23:15:27 - Web UI translation for selected locale (en) has been successfully loaded.
+(C) 2026-06-05T23:15:27 - Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available
+"Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available"
+(N) 2026-06-05T23:15:27 - qBittorrent termination initiated
+(N) 2026-06-05T23:15:27 - qBittorrent is now ready to exit
+WebUI will be started shortly after internal preparations. Please wait...
+
+******** Information ********
+To control qBittorrent, access the WebUI at: http://localhost:8080
+
+(N) 2026-06-05T23:16:32 - qBittorrent v4.6.0 started
+(N) 2026-06-05T23:16:32 - Using config directory: /config/qBittorrent/config
+(N) 2026-06-05T23:16:32 - Trying to listen on the following list of IP addresses: "100.114.144.72:2517"
+(I) 2026-06-05T23:16:32 - Peer ID: "-qB4600-"
+(I) 2026-06-05T23:16:32 - HTTP User-Agent: "qBittorrent/4.6.0"
+(I) 2026-06-05T23:16:32 - Distributed Hash Table (DHT) support: ON
+(I) 2026-06-05T23:16:32 - Local Peer Discovery support: ON
+(I) 2026-06-05T23:16:32 - Peer Exchange (PeX) support: ON
+(I) 2026-06-05T23:16:32 - Anonymous mode: OFF
+(I) 2026-06-05T23:16:32 - Encryption support: ON
+(I) 2026-06-05T23:16:32 - Successfully listening on IP. IP: "100.114.144.72". Port: "TCP/2517"
+(I) 2026-06-05T23:16:32 - Successfully listening on IP. IP: "100.114.144.72". Port: "UDP/2517"
+(I) 2026-06-05T23:16:32 - UPnP/NAT-PMP support: ON
+(I) 2026-06-05T23:16:32 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 01:42:47 2026.
+(N) 2026-06-05T23:16:32 - Using built-in Web UI.
+(N) 2026-06-05T23:16:32 - Web UI translation for selected locale (en) has been successfully loaded.
+(C) 2026-06-05T23:16:32 - Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available
+"Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available"
+(N) 2026-06-05T23:16:32 - qBittorrent termination initiated
+(N) 2026-06-05T23:16:33 - qBittorrent is now ready to exit
+WebUI will be started shortly after internal preparations. Please wait...
+
+******** Information ********
+To control qBittorrent, access the WebUI at: http://localhost:8080
+
+(N) 2026-06-05T23:17:37 - qBittorrent v4.6.0 started
+(N) 2026-06-05T23:17:37 - Using config directory: /config/qBittorrent/config
+(N) 2026-06-05T23:17:38 - Trying to listen on the following list of IP addresses: "100.114.144.72:2517"
+(I) 2026-06-05T23:17:38 - Peer ID: "-qB4600-"
+(I) 2026-06-05T23:17:38 - HTTP User-Agent: "qBittorrent/4.6.0"
+(I) 2026-06-05T23:17:38 - Distributed Hash Table (DHT) support: ON
+(I) 2026-06-05T23:17:38 - Local Peer Discovery support: ON
+(I) 2026-06-05T23:17:38 - Peer Exchange (PeX) support: ON
+(I) 2026-06-05T23:17:38 - Anonymous mode: OFF
+(I) 2026-06-05T23:17:38 - Encryption support: ON
+(I) 2026-06-05T23:17:38 - Successfully listening on IP. IP: "100.114.144.72". Port: "TCP/2517"
+(I) 2026-06-05T23:17:38 - Successfully listening on IP. IP: "100.114.144.72". Port: "UDP/2517"
+(I) 2026-06-05T23:17:38 - UPnP/NAT-PMP support: ON
+(I) 2026-06-05T23:17:38 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 01:42:47 2026.
+(N) 2026-06-05T23:17:38 - Using built-in Web UI.
+(N) 2026-06-05T23:17:38 - Web UI translation for selected locale (en) has been successfully loaded.
+(C) 2026-06-05T23:17:38 - Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available
+"Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available"
+(N) 2026-06-05T23:17:38 - qBittorrent termination initiated
+(N) 2026-06-05T23:17:38 - qBittorrent is now ready to exit
+WebUI will be started shortly after internal preparations. Please wait...
+
+******** Information ********
+To control qBittorrent, access the WebUI at: http://localhost:8080
+
+(N) 2026-06-05T23:18:43 - qBittorrent v4.6.0 started
+(N) 2026-06-05T23:18:43 - Using config directory: /config/qBittorrent/config
+(N) 2026-06-05T23:18:43 - Trying to listen on the following list of IP addresses: "100.114.144.72:2517"
+(I) 2026-06-05T23:18:43 - Peer ID: "-qB4600-"
+(I) 2026-06-05T23:18:43 - HTTP User-Agent: "qBittorrent/4.6.0"
+(I) 2026-06-05T23:18:43 - Distributed Hash Table (DHT) support: ON
+"Web UI: Unable to bind to IP: 172.18.0.4, port: 8080. Reason: The address is not available"
+WebUI will be started shortly after internal preparations. Please wait...
+
+******** Information ********
+To control qBittorrent, access the WebUI at: http://localhost:8080
+

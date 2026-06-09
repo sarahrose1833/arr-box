@@ -1,0 +1,182 @@
+services:
+  prowlarr:
+    image: lscr.io/linuxserver/prowlarr:latest
+    container_name: prowlarr
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Etc/UTC
+    volumes:
+      - /media/config/prowlarr:/config
+    ports:
+      - 9696:9696
+    restart: unless-stopped
+  sonarr:
+    image: lscr.io/linuxserver/sonarr:latest
+    container_name: sonarr # For TV Shows and anime https://hub.docker.com/r/linuxserver/sonarr https://sonarr.tv/
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Etc/UTC
+    volumes:
+      - /media/config/sonarr:/config
+      - /media/TV:/tv #optional
+      - /media/downloads:/downloads #optional
+    ports:
+      - 8989:8989
+    restart: unless-stopped
+  radarr:
+    image: lscr.io/linuxserver/radarr:latest
+    container_name: radarr
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Etc/UTC
+    volumes:
+      - /media/config/radarr:/config
+      - /media/Movies:/movies #optional
+      - /media/downloads:/downloads #optional
+    ports:
+      - 7878:7878
+    restart: unless-stopped
+  bazarr:
+    image: lscr.io/linuxserver/bazarr:latest # For Subtitles https://hub.docker.com/r/linuxserver/bazarr https://www.bazarr.media/
+    container_name: bazarr
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Etc/UTC
+    volumes:
+      - /media/config/bazarr:/config
+      - /media/Movies:/movies #optional
+      - /media/TV:/tv #optional
+    ports:
+      - 6767:6767
+    restart: unless-stopped
+  mafl:
+    container_name: mafl # A service to make a Web Page with Shortcuts to your services https://mafl.hywax.space/ 
+    image: hywax/mafl
+    environment:
+      - PUID=1000
+      - PGID=1000
+    restart: unless-stopped
+    ports:
+      - '3000:3000'
+    volumes:
+      - ./mafl:/app/data
+  jellyfin:
+    image: lscr.io/linuxserver/jellyfin:latest
+    container_name: jellyfin # I dont need to say anything https://hub.docker.com/r/linuxserver/jellyfin https://github.com/jellyfin/jellyfin
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Etc/UTC
+    volumes:
+      - /media/config/jellyfin/Library:/config
+      - /media/TV:/data/tvshows
+      - /media/Movies:/data/movies
+    ports:
+      - 8096:8096
+      - 8920:8920 #optional
+      - 7359:7359/udp #optional
+      - 1900:1900/udp #optional
+    restart: unless-stopped
+  ombi:
+    image: lscr.io/linuxserver/ombi:latest
+    container_name: ombi # A website for requesting shows. This is not needed for doplarr https://hub.docker.com/r/linuxserver/ombi https://ombi.io/
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Etc/UTC
+      - BASE_URL=/ #optional
+    volumes:
+      - /media/config/ombi:/config
+    ports:
+      - 3579:3579
+    restart: unless-stopped
+  qbittorrentvpn:
+      privileged: true
+      container_name: qbittorrent # this is your download client, this one will take a bit more hands on configuration, I highly recommend you ask me and just have me walk you through it. If done wrong, you will get a notice from your ISP.
+      volumes:
+          - /media/config/qbittorrent:/config
+          - /media/downloads:/downloads
+      environment:
+          - VPN_ENABLED=yes
+          - VPN_TYPE=wireguard
+          - LAN_NETWORK=192.168.1.0/24
+          - PUID=1000
+          - PGID=1000
+      ports:
+          - 8008:8080
+      restart: unless-stopped
+      image: dyonr/qbittorrentvpn
+  overseerr:
+    image: lscr.io/linuxserver/overseerr:latest
+    container_name: overseerr # only needed for the discord bot service, doplarr. https://hub.docker.com/r/linuxserver/overseerr https://overseerr.dev/
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Etc/UTC
+    volumes:
+      - /media/config/overseerr:/config
+    ports:
+      - 5055:5055
+    restart: unless-stopped
+  doplarr:
+    image: lscr.io/linuxserver/doplarr:latest
+    container_name: doplarr # this is your discord bot https://hub.docker.com/r/linuxserver/doplarr https://github.com/kiranshila/Doplarr
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Etc/UTC
+      - DISCORD__TOKEN=
+      - OVERSEERR__API= # Put your API key here
+      - OVERSEERR__URL=http://localhost:5055 # Put your  address here
+      - RADARR__API= # Put your API key here
+      - RADARR__URL=http://localhost:7878 # Put your radarr address here
+      - SONARR__API= # Put your API key here
+      - SONARR__URL=http://localhost:8989 # Put your sonarr address here
+    volumes:
+      - /path/to/doplarr/config:/config
+    restart: unless-stopped
+  wizarr:
+    container_name: wizarr
+    image: ghcr.io/wizarrrr/wizarr
+    ports:
+      - 5690:5690
+    volumes:
+      - /media/config/wizarr:/data
+    environment:
+      - PUID=1000 #Set UID
+      - PGID=1000 #Set GID
+      - DISABLE_BUILTIN_AUTH=false #Set to true ONLY if you are using another auth provider (Authelia, Authentik, etc)
+      - TZ=America/Detroit #Set your timezone here
+  plex:
+    image: lscr.io/linuxserver/plex:latest
+    container_name: plex
+    network_mode: host
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Etc/UTC
+      - VERSION=docker
+    volumes:
+      - /media/config/plex:/config
+      - /media/TV:/tv
+      - /media/Movies:/movies
+    restart: unless-stopped
+  flaresolverr:
+    # DockerHub mirror flaresolverr/flaresolverr:latest
+    image: ghcr.io/flaresolverr/flaresolverr:latest
+    container_name: flaresolverr
+    environment:
+      - LOG_LEVEL=${LOG_LEVEL:-info}
+      - LOG_FILE=${LOG_FILE:-none}
+      - LOG_HTML=${LOG_HTML:-false}
+      - CAPTCHA_SOLVER=${CAPTCHA_SOLVER:-none}
+      - TZ=Europe/London
+    ports:
+      - "${PORT:-8191}:8191"
+    volumes:
+      - /var/lib/flaresolver:/config
+    restart: unless-stopped

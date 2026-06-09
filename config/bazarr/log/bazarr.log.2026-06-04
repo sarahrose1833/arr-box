@@ -1,0 +1,8 @@
+2026-06-04 00:42:02|INFO    |root                            |Scheduler will use this timezone: Etc/UTC|
+2026-06-04 00:42:10|INFO    |root                            |Interactive jobs queue started and waiting for tasks|
+2026-06-04 00:42:10|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://***.***.***.***:6767|
+2026-06-04 00:42:10|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://[::]:6767|
+2026-06-04 21:05:48|INFO    |root                            |Scheduler will use this timezone: Etc/UTC|
+2026-06-04 21:05:53|INFO    |root                            |Interactive jobs queue started and waiting for tasks|
+2026-06-04 21:05:53|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://***.***.***.***:6767|
+2026-06-04 21:05:53|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://[::]:6767|

@@ -18,3 +18,8 @@ sudo dnf upgrade
 sudo dnf install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin --assumeyes
 # enable docker service to start on boot
 sudo systemctl enable --now docker
+# Moves Files into place
+sudo mv -R TV /media/*
+sudo mv -R Movies /media/*
+sudo mv -R downloads /media/*
+sudo mv -R config /media/*
